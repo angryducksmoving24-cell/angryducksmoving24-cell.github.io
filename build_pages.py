@@ -478,6 +478,9 @@ PAGES = [
   ("Unloading: Fast, Placed, Done", [
    "Arriving in Knoxville with a truck full of your life? We'll meet it, unload it room by room, and place furniture where you want it — not just stacked in the garage. Beds reassembled, boxes in the right rooms, and you're sleeping in your own bed that night instead of on an air mattress surrounded by cardboard.",
    "Unloading pairs well with our unpacking service: we open the kitchen and bedroom boxes, put everyday items away, break down the cartons, and haul off the debris. One visit, and the house is livable."]),
+  ("One Heavy Item? We Do That Too", [
+   "You don't need a full crew day to move one piece. A gun safe, a treadmill, an upright piano, a big sectional — when a single item needs real muscle and the right equipment, a two-mover labor crew is the cheapest professional answer. No full-day minimum, no truck you don't need.",
+   "Describe the item, the stairs, and any tight turns when you call (865) 936-3891, and we'll tell you straight what crew it takes and the honest minimum. If it's something we shouldn't touch, we'll say that too."]),
   ("When to Call", [
    "Yesterday would have been ideal; today usually works. Same-day loading and unloading help is regularly available — if your truck arrived early, your friends bailed, or the container company gave you a four-hour window, call (865) 936-3891 and we'll tell you straight whether a crew can be there.",
    "Have the truck or container on-site and ready, with legal parking for it. Everything should be packed and ready to carry — an unpacked house burns hourly time, and hourly time is money."]),
@@ -486,6 +489,7 @@ PAGES = [
   ("What does loading help cost in Knoxville?", "Two movers at $100/hr with a two-hour minimum. Most truck loads take 2–4 hours depending on volume and stairs."),
   ("Do you load PODS containers?", "Yes — PODS, U-Box, U-Pack, ABF trailers, and all major rental trucks. Containers reward good Tetris skills; that's our specialty."),
   ("Can you unload my truck today?", "Often, yes. Call (865) 936-3891 — if a crew is open, we'll be there."),
+  ("Can you move just one heavy item?", "Yes. Single-item moves are regular jobs for us — safes, treadmills, pianos, and sectionals. The two-mover, two-hour labor-only minimum applies. Tell us about stairs and access when you call so we bring the right crew and equipment."),
  ],
  "related": [("Labor-Only Moving", "/labor-only-moving/"), ("Local Moving", "/local-moving/"), ("Packing & Unpacking", "/packing-and-unpacking/"), ("Movers in Oak Ridge", "/movers-oak-ridge-tn/")],
 },
@@ -706,6 +710,38 @@ PAGES = [
   ("Are you licensed and insured?", "Yes. Angry Ducks Moving is a licensed and insured moving company serving Clinton and East Tennessee."),
  ],
  "related": [("Movers in Karns", "/movers-karns-tn/"), ("Movers in Oak Ridge", "/movers-oak-ridge-tn/"), ("Movers in Powell", "/movers-powell-tn/"), ("Labor-Only Moving", "/labor-only-moving/")],
+},
+{
+ "slug": "office-moving",
+ "title": "Office & Commercial Movers in Knoxville, TN | Angry Ducks Moving",
+ "meta": "Office and commercial movers in Knoxville, TN — after-hours & weekend office moves, furniture disassembly, and zero-downtime planning. Licensed & insured. Call (865) 936-3891.",
+ "canonical": BASE + "/office-moving/",
+ "crumb": "Office Moving",
+ "h1": "Office and Commercial Movers in Knoxville, TN",
+ "area_served": "Knoxville, TN",
+ "intro": "An office move has one rule the residential world doesn't: Monday morning, work starts. Angry Ducks Moving handles office and commercial moves across Knoxville — small offices, retail shops, restaurants, and nonprofits — with after-hours and weekend scheduling, workstation disassembly and reassembly, and a plan built around keeping your business running.",
+ "sections": [
+  ("Weekend and After-Hours Moves That Skip the Downtime", [
+   "The cheapest office move is the one your staff never notices. We schedule office relocations on evenings and weekends so your team walks into a working office on Monday — desks assembled, computers in place, files where they belong. You don't lose a business day, and your people don't burn a workday carrying boxes.",
+   "We work Monday through Saturday, 7 AM to 8 PM. Evenings and Saturdays book out faster than weekday mornings, so call (865) 936-3891 as soon as you know your date — a walkthrough of both spaces gets the crew size and the schedule right before moving day."]),
+  ("Desks, Workstations, and the Tricky Stuff", [
+   "Modular desks, workstations, conference tables, lateral file cabinets, and server racks come apart and go back together — we disassemble at the old space and reassemble at the new one, hardware bagged and labeled so nothing goes missing. Floor protection and door-jamb guards go down first; commercial landlords care about the building, and so do we.",
+   "Computers and IT gear ride padded and strapped. We'll tell you honestly where our scope ends: we transport the equipment safely, but you or your IT person should handle the actual disconnect and reconnect — it's your network, and you'll want it your way. Backups before moving day are on your checklist, and we'll remind you."]),
+  ("Small Offices Are Our Sweet Spot", [
+   "The national van lines want your two-floor corporate headquarters. We want your 3-to-30-person office, your dental practice, your boutique, your church office. Small commercial moves run on the same honest hourly pricing as our residential work — two movers plus truck at $140/hr, three at $195/hr, four at $250/hr, with a one-hour service fee — so a compact office move often finishes in a single day.",
+   "Property-management turns, office park suites, medical offices with tight hallways, and retail back-of-house moves are all regular jobs for us. Tell us about freight elevators, loading docks, and building access rules when you book, and we'll plan around them."]),
+  ("How an Office Move Runs", [
+   "It starts with a walkthrough — of the old space and the new one. We count the desks, measure the big pieces, note the stairs, elevators, and parking, and tell you exactly what crew the job needs. Everything gets labeled by room and employee so unloading goes to the right desk, not a pile in the lobby.",
+   "On moving day the crew works room by room: disassemble, protect, load, transport, unload, reassemble, remove debris. We sweep out the old space at the end, because your landlord will remember that part. One crew, one point of contact, one finished office."]),
+ ],
+ "faqs": [
+  ("How much does an office move cost in Knoxville?", "Small office moves run on our standard hourly rates: two movers plus truck at $140/hr, three at $195/hr, four at $250/hr, plus a one-hour service fee. Most compact offices finish in a single day. Call (865) 936-3891 with your office size and both addresses for a straight answer."),
+  ("Can you move our office after hours or on weekends?", "Yes — that's how most of our office moves are scheduled, so your team doesn't lose a business day. We work Monday through Saturday, 7 AM to 8 PM and are closed Sundays. Evenings and Saturdays book first, so call early."),
+  ("Do you disassemble and reassemble office furniture?", "Yes. Desks, workstations, conference tables, and shelving come apart and go back together with hardware bagged and labeled. Tell us about systems furniture or anything unusual when you book so we bring the right tools."),
+  ("Can you move computers and servers?", "We transport them padded and strapped, but the disconnect and reconnect is yours — back up everything first and plan it with your IT person. We'll work around their schedule on moving day."),
+  ("Are you licensed and insured?", "Yes. Angry Ducks Moving is a licensed and insured moving company serving Knoxville and East Tennessee."),
+ ],
+ "related": [("Local Moving", "/local-moving/"), ("Labor-Only Moving", "/labor-only-moving/"), ("Furniture Assembly", "/furniture-assembly/"), ("Loading & Unloading", "/loading-unloading/")],
 },
 ]
 

@@ -743,6 +743,231 @@ PAGES = [
  ],
  "related": [("Local Moving", "/local-moving/"), ("Labor-Only Moving", "/labor-only-moving/"), ("Furniture Assembly", "/furniture-assembly/"), ("Loading & Unloading", "/loading-unloading/")],
 },
+{
+ "slug": "gun-safe-moving",
+ "title": "Gun Safe Movers in Knoxville, TN | Angry Ducks Moving",
+ "meta": "Need gun safe movers in Knoxville, TN? Angry Ducks Moving moves gun safes and heavy safes with the right crew and equipment. Licensed & insured. Call (865) 936-3891.",
+ "canonical": BASE + "/gun-safe-moving/",
+ "crumb": "Gun Safe Moving",
+ "h1": "Gun Safe Movers in Knoxville, TN",
+ "area_served": "Knoxville, TN",
+ "intro": "A gun safe is the one piece of furniture you can't afford to drop, tip, or wedge in a doorway. Angry Ducks Moving moves gun safes and heavy safes across Knoxville and East Tennessee with crews sized for the weight, an appliance dolly, straps, and a plan for every doorway and stair before we lift. Tell us the safe's weight, where it sits, and where it's going — we'll tell you straight what crew the job needs.",
+ "sections": [
+  ("Heavy, Awkward, and Unforgiving — That's the Job", [
+   "Most gun safes run 300 to 800 pounds, and every pound of it is concentrated in a steel box with no good handholds. This isn't a two-guys-and-a-dolly job unless the path is flat, wide, and short. We typically send three or four movers for safe moves, keep the safe upright the entire time, and strap it to the dolly so it can't shift or tip on thresholds and ramps.",
+   "Before moving day, measure the safe and every doorway, hallway turn, and stairwell on the route — or better, have us do a quick walkthrough. A safe that fits through the front door but not around the basement stair landing is the classic surprise, and surprises are what we plan against. Call (865) 936-3891 with the measurements and we'll size the crew."]),
+  ("Unload It First — Non-Negotiable", [
+   "Your safe must be completely unloaded before we touch it: every firearm and every round of ammunition out, stored separately and secured by you. This is a safety rule, not a suggestion, and it's also the law's expectation for transport. We'll confirm it's empty when we arrive, and if it isn't, the move waits until it is.",
+   "Remove shelving, drawers, and anything loose inside the safe too. A rattling interior shifts the weight mid-lift, and that's how floors get gouged and backs get hurt. Bolt-down kits come off at the old location; if you want it bolted at the new one, have the anchors ready and we'll set it in place for you."]),
+  ("Stairs, Garages, and Tight Spots", [
+   "Garage-to-garage is the easy version. Basement stairs, split-level entries, and gravel driveways are where experience matters — that's most of our safe moves in East Tennessee. We plan the route, protect floors and door jambs, and use stair-climbing technique with enough hands on the safe that nobody's holding more than their share.",
+   "Long gun safes and wide-body models need extra clearance on turns. Tell us about every tight spot when you book — narrow hallways in older Knoxville homes, spiral basement stairs, low garage headers — and we'll tell you honestly whether the safe fits or whether we need to talk alternatives before moving day."]),
+  ("What a Safe Move Costs", [
+   "Safe moves run on our standard hourly rates — two movers plus truck at $140/hr, three at $195/hr, four at $250/hr, plus a one-hour service fee — because a safe move is really a small, careful, heavy job. Most single-safe moves finish in 1–3 hours depending on stairs and distance; safes going up or down full flights of stairs take longer and need the bigger crew.",
+   "If the safe is the only thing moving, labor-only help (2 movers at $100/hr, 2-hour minimum) can work when your truck or trailer is already on site. Either way, the price is the clock — no mystery fees for the safe itself."]),
+ ],
+ "faqs": [
+  ("How much does it cost to move a gun safe in Knoxville?", "Our standard hourly rates apply: two movers plus truck at $140/hr, three at $195/hr, four at $250/hr, plus a one-hour service fee. Most single-safe moves take 1–3 hours. Stairs and long carries add time, so describe the route when you call (865) 936-3891."),
+  ("Do I need to unload my gun safe before the move?", "Yes — completely. Every firearm and every round of ammunition must be out and secured by you before we arrive. Loose shelving and drawers should come out too. We confirm it's empty before we lift."),
+  ("Can you move a safe up or down stairs?", "Yes, with the right crew size — typically three or four movers for stairs. Tell us about every stairwell, turn, and tight doorway when you book so we plan the route and bring enough hands."),
+  ("Do you move other heavy safes or just gun safes?", "We move gun safes, floor safes, and heavy home and office safes. The same rules apply: know the weight, measure the route, unload the contents first."),
+  ("Are you licensed and insured?", "Yes. Angry Ducks Moving is a licensed and insured moving company serving Knoxville and East Tennessee."),
+ ],
+ "related": [("Piano & Heavy-Item Moving", "/piano-heavy-item-moving/"), ("Labor-Only Moving", "/labor-only-moving/"), ("Local Moving", "/local-moving/"), ("Furniture Delivery", "/furniture-delivery/")],
+},
+{
+ "slug": "townhouse-condo-moving",
+ "title": "Townhouse & Condo Movers in Knoxville, TN | Angry Ducks Moving",
+ "meta": "Townhouse and condo movers in Knoxville, TN — stairs, elevators, HOA rules, and tight parking handled. Licensed & insured. Call (865) 936-3891.",
+ "canonical": BASE + "/townhouse-condo-moving/",
+ "crumb": "Townhouse & Condo Moving",
+ "h1": "Townhouse & Condo Movers in Knoxville, TN",
+ "area_served": "Knoxville, TN",
+ "intro": "Townhouses and condos pack a house's worth of stairs into an apartment-sized footprint — three floors of carrying, one narrow stairwell, and an HOA with opinions about all of it. Angry Ducks Moving handles townhouse and condo moves across Knoxville: multi-level carries, elevator reservations, loading-dock windows, and building rules, all planned before moving day so the clock doesn't burn on surprises.",
+ "sections": [
+  ("Three Floors of Stairs Is the Whole Job", [
+   "A townhouse move is really a stair move with furniture in it. Bedroom sets live on the third floor, the couch has to come down two flights and around a landing, and the washer-dryer is somehow in the basement. We plan townhouse moves floor by floor — what comes down first, what stages where, which pieces get disassembled — so the crew isn't carrying a dresser past the crew carrying a mattress.",
+   "Three-mover crews ($195/hr) are the usual pick for townhouses: two carrying, one staging and protecting the route. Four movers ($250/hr) earn their keep on three-story units and tight timelines. We'll recommend the crew size when you describe the layout."]),
+  ("Elevators, Loading Docks, and Building Rules", [
+   "Condos and mid-rise buildings run on reservations: freight elevator windows, loading dock time slots, move-in/move-out hours, floor protection requirements. Miss your window and you're paying the crew to stand around. Tell us the building's rules when you book and we'll schedule inside them — and we'll bring the floor runners and door protection most buildings require.",
+   "Downtown and West Knoxville condo buildings each have their own quirks — service entrances around back, parking that fits a pickup but not a box truck, managers who need a certificate of insurance. We've worked enough of them to ask the right questions up front. If your building needs our insurance docs, say so early and we'll have them ready."]),
+  ("HOA Move-In Rules Are Real", [
+   "Townhouse communities love their rules: approved moving hours, no trucks on certain streets, dumpsters and debris policies, gate codes for the crew. Read your HOA's move-in sheet before moving day and send us the highlights — a crew turned away at the gate at 8 AM is an expensive lesson.",
+   "Parking is the other townhouse classic: one assigned spot, a narrow drive, and a 26-foot truck that needs forty feet of straight curb. We'll talk truck placement when you book. Sometimes the answer is a smaller load shuttled twice; sometimes it's reserving a neighbor's drive for the morning. Either way, it's decided before the truck rolls, not after."]),
+  ("What a Townhouse or Condo Move Costs", [
+   "Same honest hourly rates as everything we do: two movers plus truck at $140/hr, three at $195/hr, four at $250/hr, plus a one-hour service fee covering the truck, fuel, pads, and equipment. Townhouse moves typically run 4–7 hours — the stairs add time the same way they add everything else.",
+   "The fastest way to control the cost is to be packed and ready when we arrive, with a clear path from every room to the door. Disassembly is on us — beds, tables, and anything that won't fit down the stairs comes apart and goes back together at the new place."]),
+ ],
+ "faqs": [
+  ("How much does a townhouse move cost in Knoxville?", "Our rates are $140/hr for two movers plus truck, $195/hr for three, $250/hr for four, plus a one-hour service fee. Townhouse moves usually take 4–7 hours depending on floors, stairs, and how much is packed and ready."),
+  ("Do you handle elevator reservations and building rules?", "We work within your building's rules — freight elevator windows, loading dock slots, floor protection — but you need to book the elevator and get us the rules ahead of time. Tell us when you call and we'll plan the schedule around them."),
+  ("Can you move a condo on a high floor?", "Yes. High-rise and mid-rise condo moves are regular jobs for us. Elevator access, parking for the truck, and any certificate of insurance your building requires should all be sorted before moving day."),
+  ("Do you disassemble furniture for townhouse moves?", "Yes — beds, dining tables, desks, and anything too big for the stairs comes apart and gets reassembled at the new place. It's included in full-service moves."),
+  ("Are you licensed and insured?", "Yes. Angry Ducks Moving is a licensed and insured moving company serving Knoxville and East Tennessee."),
+ ],
+ "related": [("Apartment Moving", "/apartment-moving/"), ("Local Moving", "/local-moving/"), ("Labor-Only Moving", "/labor-only-moving/"), ("Furniture Assembly", "/furniture-assembly/")],
+},
+{
+ "slug": "storage-unit-moving",
+ "title": "Storage Unit Movers in Knoxville, TN | Angry Ducks Moving",
+ "meta": "Storage unit movers in Knoxville, TN — home to unit, unit to home, or unit to unit. Careful loading, smart staging. Licensed & insured. Call (865) 936-3891.",
+ "canonical": BASE + "/storage-unit-moving/",
+ "crumb": "Storage Unit Moving",
+ "h1": "Storage Unit Movers in Knoxville, TN",
+ "area_served": "Knoxville, TN",
+ "intro": "Storage units are where moves go sideways: everything crammed in with no plan, the thing you need buried in the back, a second trip because the truck got loaded wrong. Angry Ducks Moving handles storage-unit moves across Knoxville — home to unit, unit to home, or unit to unit — loaded in an order that makes sense and unloaded where it belongs, not just where it fits.",
+ "sections": [
+  ("Home to Unit, Done in One Trip", [
+   "Moving into storage usually means one shot to get it right, because nobody wants to pay for the truck twice. We load the truck in reverse-unload order — the stuff you'll need first goes in last — and stage the unit as we go: heavy furniture along the walls, boxes stacked stable and labeled facing out, a walkway left down the middle so you can actually reach things later.",
+   "Tell us the unit size when you book (5x10, 10x10, 10x20 — the standard lineup) and roughly how much is going in. We'll tell you honestly whether it fits in one load or whether you're looking at two trips, and we'll size the crew so the loading doesn't eat the whole day."]),
+  ("Unit to Home: the Reverse Move", [
+   "Coming out of storage is the mirror job, and it's where most DIY moves fall apart — months in a unit, no memory of what's where, and a truck that needs loading in the right order for the new place. We pull the unit systematically, load the truck room-by-room for the destination, and unload straight into the right rooms.",
+   "If some things are going to the new place and some to donation or the curb, sort that before we arrive — or walk the unit with the crew lead at the start and tag what goes where. Mixed-destination loads work fine as long as the plan exists before the first box moves."]),
+  ("Unit to Unit and Staging Help", [
+   "Downsizing units, switching facilities for a better rate, or consolidating two units into one — unit-to-unit moves are short, fast jobs that still benefit from a crew that loads tight. Two movers plus truck ($140/hr) usually covers it; most finish in 2–4 hours.",
+   "We also do the in-between work: rearranging a packed unit so you can reach the back, pulling specific items out of storage, or loading PODS and U-Box containers at your home for the storage company to haul. If it involves lifting and a truck, it's our kind of job."]),
+  ("What a Storage Move Costs", [
+   "Standard hourly rates: two movers plus truck at $140/hr, three at $195/hr, four at $250/hr, plus a one-hour service fee. Home-to-unit moves typically run 3–6 hours depending on volume; unit-to-unit hops are usually 2–4.",
+   "One cost saver: have the unit rented and accessible before we arrive, with the gate code and unit number in hand. Crews waiting at a locked gate are the most avoidable charge in moving. We work Monday through Saturday, 7 AM to 8 PM — most storage facilities keep similar hours, so same-day scheduling usually lines up."]),
+ ],
+ "faqs": [
+  ("How much does a storage unit move cost in Knoxville?", "Our rates are $140/hr for two movers plus truck, $195/hr for three, $250/hr for four, plus a one-hour service fee. Home-to-unit moves usually take 3–6 hours; unit-to-unit moves typically 2–4 hours."),
+  ("Can you move my things from my home into a storage unit?", "Yes — that's one of our most common jobs. We load the truck in an order that makes the unit usable afterward: heavy items along walls, boxes labeled facing out, a walkway left down the middle."),
+  ("Do you move items out of storage into a new home?", "Yes. We pull the unit systematically and load the truck room-by-room for your new place, then unload into the right rooms. If some items are going to donation, tag them before we arrive."),
+  ("Can you load a PODS or U-Box container?", "Yes — container loading and unloading is standard labor-only work for us: two movers at $100/hr with a two-hour minimum. We pack containers tight so nothing shifts in transit."),
+  ("Are you licensed and insured?", "Yes. Angry Ducks Moving is a licensed and insured moving company serving Knoxville and East Tennessee."),
+ ],
+ "related": [("Labor-Only Moving", "/labor-only-moving/"), ("Loading & Unloading", "/loading-unloading/"), ("Local Moving", "/local-moving/"), ("Apartment Moving", "/apartment-moving/")],
+},
+{
+ "slug": "pods-moving",
+ "title": "PODS Loading & Unloading in Knoxville, TN | Angry Ducks Moving",
+ "meta": "PODS container loading and unloading in Knoxville, TN — professional crews pack your PODS tight so nothing shifts. 2 movers from $100/hr. Call (865) 936-3891.",
+ "canonical": BASE + "/pods-moving/",
+ "crumb": "PODS Moving Help",
+ "h1": "PODS Loading & Unloading in Knoxville, TN",
+ "area_served": "Knoxville, TN",
+ "intro": "PODS handles the driving — you handle the loading, or we do. Angry Ducks Moving loads and unloads PODS containers across Knoxville with crews who pack them the way the pros do: heavy stuff low and forward, weight distributed evenly, every inch used, nothing shifting when the container gets lifted onto the truck. Two movers at $100/hr with a two-hour minimum, and most single-container loads finish inside that window.",
+ "sections": [
+  ("Why Container Loading Is Its Own Skill", [
+   "A PODS container isn't a truck — there's no cab weight up front to anchor things, and the whole box gets lifted by a forklift-style system at pickup. Load it wrong and the weight shifts when it tilts. We load containers heavy-low-forward: furniture and appliances against the front wall and low, boxes filling upward and backward, soft items wedged into gaps so nothing moves when the container leaves the ground.",
+   "Weight distribution matters more than most people think. A container loaded heavy on one side rides badly and can get flagged at pickup. We balance the load side to side as we go — it's slower than tossing boxes in, and it's the difference between a container that ships and a container that gets refused."]),
+  ("How a PODS Load Day Runs", [
+   "PODS drops the container, usually the day before your load date — that gives you time to stage everything near it. When we arrive, the crew lead walks the container and your pile, then we load biggest-first: couches, dressers, and appliances form the base layer along the front wall, then boxes stack on and around them, mattresses last as padding along the sides.",
+   "Disassembly happens as needed — bed frames, dining tables, and anything that wastes space comes apart and gets wrapped. We bring pads, shrink wrap, and straps; you supply the boxes packed and sealed. A 12-foot container typically takes two movers about two hours; a 16-footer, three to four."]),
+  ("Unloading at the Other End", [
+   "Delivery day in reverse: we meet the container, unload room by room, and place furniture where it goes — not in a pile in the garage. If you're unloading into storage instead of a home, we stage it the way we stage storage units: heavy along the walls, labels facing out, walkway down the middle.",
+   "PODS gives you a delivery window, not an exact time, so book us with some flex on the day. Morning windows are easier to hit than afternoon ones, and containers delivered late in the day sometimes roll to the next morning — we'll work with whatever PODS gives you."]),
+  ("What PODS Help Costs", [
+   "Labor-only rates: two movers at $100/hr, three at $165/hr, four at $225/hr, with a two-hour minimum. A standard container load or unload usually lands in the 2–4 hour range. No truck fee — it's your container, our muscle.",
+   "One thing people get wrong: the container has to be level and accessible when we arrive. PODS handles placement, but if the container lands on a slope or behind a locked gate, tell us ahead of time. And don't start loading it yourself the night before unless you want us working around your half-finished job — a fresh container loads faster and tighter."]),
+ ],
+ "faqs": [
+  ("How much does it cost to load a PODS container in Knoxville?", "Our labor-only rates: two movers at $100/hr with a two-hour minimum. Most single-container loads take 2–4 hours. Call (865) 936-3891 with your container size for a straight estimate."),
+  ("Do you provide the PODS container?", "No — PODS handles the container, delivery, and transport. We provide the crew that loads and unloads it professionally."),
+  ("How should I prepare for container loading day?", "Have everything packed, sealed, and staged near the container. Disassembly decisions get made on arrival. Make sure the container is level and accessible — tell us about slopes or locked gates ahead of time."),
+  ("Can you unload a PODS into a storage unit?", "Yes. We unload containers directly into storage units with the same staging discipline: heavy along walls, labels out, walkway down the middle."),
+  ("Are you licensed and insured?", "Yes. Angry Ducks Moving is a licensed and insured moving company serving Knoxville and East Tennessee."),
+ ],
+ "related": [("Labor-Only Moving", "/labor-only-moving/"), ("Loading & Unloading", "/loading-unloading/"), ("Storage Unit Moving", "/storage-unit-moving/"), ("ABF Trailer Loading", "/abf-moving/")],
+},
+{
+ "slug": "abf-moving",
+ "title": "ABF U-Pack Trailer Loading in Knoxville, TN | Angry Ducks Moving",
+ "meta": "ABF U-Pack trailer loading and unloading in Knoxville, TN — tight, professional loads that save you linear feet. 2 movers from $100/hr. Call (865) 936-3891.",
+ "canonical": BASE + "/abf-moving/",
+ "crumb": "ABF U-Pack Help",
+ "h1": "ABF U-Pack Trailer Loading in Knoxville, TN",
+ "area_served": "Knoxville, TN",
+ "intro": "ABF U-Pack charges by the linear foot, so every foot of trailer you don't use is money you keep. Angry Ducks Moving loads and unloads ABF trailers and ReloCube containers across Knoxville with crews who pack freight-tight: floor-to-ceiling, wall-to-wall, bulkhead set right where the load ends. Two movers at $100/hr with a two-hour minimum — and a tight load routinely saves customers several feet of trailer space.",
+ "sections": [
+  ("Linear Feet Are Money — We Pack Like It", [
+   "With U-Pack you reserve space and pay for what you use, which makes the load itself part of the price. A sloppy load that sprawls across ten feet costs you ten feet. Our crews load trailers the way freight gets loaded: heavy furniture forms interlocking base layers, boxes fill every cavity floor to ceiling, mattresses and upholstered pieces cap the top and sides as padding.",
+   "The bulkhead — ABF's divider wall — goes exactly where your load ends, and everything behind it gets strapped so it can't walk during transit. We've seen DIY loads use two extra feet of trailer just from dead air. On a long-distance move, those feet are the most expensive empty space you'll ever pay for."]),
+  ("Trailers vs. ReloCubes", [
+   "ABF gives you two options: the 28-foot trailer (you use what you need, minimums apply) or ReloCube containers, the 6x7x8-foot boxes for smaller moves. Trailers suit full homes; ReloCubes suit apartments and partial moves. We load both — the trailer wants freight discipline, the Cube wants container discipline, and our crews do both weekly.",
+   "Ramp work is the trailer's signature challenge: a steep, narrow ramp with a dresser on a dolly. We stage at the bottom, load in waves, and keep the ramp clear — nobody carries past somebody. If your street can't fit a 28-foot trailer, say so when you book ABF; they'll tell you the alternatives, and we'll load whatever shows up."]),
+  ("How Load Day Runs", [
+   "ABF drops the trailer or cubes, usually with a day or two of load time built in. When we arrive, the crew lead walks the trailer and your staged items, then we load biggest-first against the nose wall: couches, dressers, appliances as the base, boxes filling up and back, soft goods wedged into every gap.",
+   "Disassembly happens on the fly — bed frames, tables, anything that wastes cubic feet comes apart, gets wrapped, and rides flat. We bring pads, shrink wrap, and straps. A typical 2–3 bedroom trailer load takes two movers three to five hours; ReloCubes usually run about two hours each."]),
+  ("What ABF Help Costs", [
+   "Labor-only: two movers at $100/hr, three at $165/hr, four at $225/hr, two-hour minimum. Most trailer loads land in the 3–5 hour range. You pay ABF for the transport; you pay us for the crew.",
+   "The money tip: be fully packed before we arrive. Every box the crew has to pack is time not spent loading, and trailer time is linear-foot money. Have everything sealed, labeled, and staged near the trailer, and the crew spends the whole clock on the load."]),
+ ],
+ "faqs": [
+  ("How much does ABF trailer loading cost in Knoxville?", "Our labor-only rates: two movers at $100/hr with a two-hour minimum. Most trailer loads take 3–5 hours; ReloCube loads about 2 hours each. Call (865) 936-3891 with your trailer or cube count."),
+  ("Do you provide the ABF trailer?", "No — ABF handles the trailer, cubes, and all transport. We provide the professional loading and unloading crew."),
+  ("How can I save money on a U-Pack move?", "Pack tight. You pay by the linear foot, so a freight-tight load that uses fewer feet costs less. That's exactly what our crews are trained to do — eliminate dead air."),
+  ("Can you unload an ABF trailer at my new home?", "Yes — including long-distance deliveries into Knoxville. We unload room by room and place furniture where it goes, with reassembly included."),
+  ("Are you licensed and insured?", "Yes. Angry Ducks Moving is a licensed and insured moving company serving Knoxville and East Tennessee."),
+ ],
+ "related": [("Labor-Only Moving", "/labor-only-moving/"), ("Loading & Unloading", "/loading-unloading/"), ("PODS Loading & Unloading", "/pods-moving/"), ("Long-Distance Moves", "/local-moving/")],
+},
+{
+ "slug": "real-estate-agent-moving",
+ "title": "Mover for Knoxville Real Estate Agents | Angry Ducks Moving",
+ "meta": "Knoxville real estate agents: a mover you can recommend with confidence. Closing-day moves, last-minute help, responsive scheduling. Angry Ducks Moving — (865) 936-3891.",
+ "canonical": BASE + "/real-estate-agent-moving/",
+ "crumb": "For Real Estate Agents",
+ "h1": "A Mover Knoxville Agents Can Recommend",
+ "area_served": "Knoxville, TN",
+ "intro": "Your clients remember two things about closing day: the keys, and the move. Angry Ducks Moving works with Knoxville real estate agents who want a mover they can recommend without crossing their fingers — responsive scheduling around closing dates, crews that show up on time and treat clients well, and a phone number that gets answered. When your client's move goes smoothly, it reflects on you.",
+ "sections": [
+  ("Closing Dates Move — We Move With Them", [
+   "Every agent knows the drill: closing slips a week, then jumps forward three days, and suddenly the movers need to be there Thursday, not next Tuesday. We're a local company with real scheduling flexibility — not a national dispatch queue — so when your client's date shifts, call us and we'll rework the calendar. Same-week and next-day moves are regularly available.",
+   "The nightmare scenario is a client with keys in hand and no crew. If you have buyers closing and no mover lined up, send them our number: (865) 936-3891. We'll give them a straight answer on availability and pricing the same day — $140/hr for two movers plus truck, $195 for three, $250 for four, plus a one-hour service fee. No surprises for your client means no awkward follow-up calls for you."]),
+  ("A Recommendation That Won't Embarrass You", [
+   "Recommending a vendor puts your name on their work. Our crews are the reason agents keep sending clients: uniformed, on time, floors and doorways protected, furniture handled like it's our own. We're licensed and insured, and we're happy to provide proof of insurance whenever a client, a building, or a closing attorney asks.",
+   "We also do the unglamorous agent-adjacent jobs: estate cleanout support, moving a seller's remaining items to storage between closing and their next place, hauling donation loads after a stage-and-sell. If it involves a truck and a deadline tied to your transaction, we're built for it."]),
+  ("Staging-Day and Pre-Listing Help", [
+   "Before the listing photos, there's the purge: half the furniture goes to storage, the garage gets cleared, the spare room becomes a bedroom again. We do pre-listing moves — house to storage unit, furniture rearranged for staging, clutter hauled off — on the same honest hourly rates. Two movers plus truck at $140/hr handles most staging jobs in a few hours.",
+   "Investors and flippers: we move materials, clear estate contents, and handle the heavy lifting between tenants. One call, one crew, done. If you manage multiple properties, talk to us about repeat scheduling — we'd rather be your standing crew than your emergency call."]),
+  ("How to Send Us a Client", [
+   "There's no portal, no form, no referral code to remember. Your client calls or texts (865) 936-3891, mentions your name, and gets scheduled like anyone else — promptly and honestly. If you prefer to coordinate directly, call us yourself with the client's timeline and we'll hold the date while they confirm.",
+   "We don't pay referral fees and we don't mark up agent-referred jobs — your client gets the same published rates as everyone else. That's deliberate: the recommendation stays clean, and your client never wonders what the arrangement was. What we offer instead is reliability worth recommending."]),
+ ],
+ "faqs": [
+  ("Can you handle last-minute moves when a closing date shifts?", "Yes — that's one of the main reasons agents send us clients. We're local with flexible scheduling, and same-week or next-day moves are regularly available. Call (865) 936-3891 as soon as the date moves."),
+  ("Are you licensed and insured?", "Yes, and we provide proof of insurance whenever a client, building, or attorney needs it."),
+  ("Do you do pre-listing and staging moves?", "Yes — house-to-storage runs, furniture rearrangement for staging, and clutter haul-offs at our standard hourly rates. Two movers plus truck at $140/hr covers most staging jobs."),
+  ("Do you work with investors and property managers?", "Yes. Estate cleanouts, between-tenant moves, and material hauling for flippers and landlords are regular work. Ask about repeat scheduling if you manage multiple properties."),
+  ("What does it cost your clients?", "The same published rates as everyone: $140/hr for two movers plus truck, $195/hr for three, $250/hr for four, plus a one-hour service fee. Labor-only from $100/hr. No agent markup, ever."),
+ ],
+ "related": [("Local Moving", "/local-moving/"), ("Storage Unit Moving", "/storage-unit-moving/"), ("Furniture Delivery", "/furniture-delivery/"), ("Labor-Only Moving", "/labor-only-moving/")],
+},
+{
+ "slug": "interior-designer-delivery",
+ "title": "White-Glove Furniture Delivery for Interior Designers | Knoxville",
+ "meta": "White-glove furniture delivery for Knoxville interior designers — room-of-choice placement, careful handling, packaging removal. Angry Ducks Moving — (865) 936-3891.",
+ "canonical": BASE + "/interior-designer-delivery/",
+ "crumb": "For Interior Designers",
+ "h1": "White-Glove Delivery for Knoxville Interior Designers",
+ "area_served": "Knoxville, TN",
+ "intro": "Your design is only as good as its delivery day. Angry Ducks Moving provides white-glove furniture delivery for Knoxville interior designers: pieces picked up from showrooms, warehouses, and retailers, carried in with floor and doorway protection, placed exactly where your plan says, packaging removed on the way out. One crew that treats a $4,000 sideboard like it's worth $4,000.",
+ "sections": [
+  ("Room-of-Choice Placement, Not Curbside", [
+   "Standard delivery drops the box at the door. White-glove means the piece ends up in the room, in the spot, oriented the way your design board shows it — then adjusted six inches left because that's how it looks best in person. Our crews place, step back, and wait for your eye before we call it done.",
+   "We protect the route in: floor runners, door-jamb guards, banister padding on stairs. New hardwood, fresh paint, and wallpaper are unforgiving, and the whole point of white-glove is that the room looks better after we leave, not marked up. Tell us about tight turns and delicate finishes when you book and we'll plan for them."]),
+  ("Scheduling Around Installs", [
+   "Design installs run on choreography — the rug guys Tuesday, painters Wednesday, furniture Thursday. We schedule inside your install windows, including the narrow ones, and we hit them. If a retailer's warehouse releases the piece late, call us and we'll shift the pickup; we're local and flexible in a way national white-glove networks aren't.",
+   "Multi-piece installs get sequenced: largest pieces placed first, then layered in. We'll work room by room on your direction, and the crew lead stays reachable by phone all day so you're not hunting anyone down when the plan changes at 2 PM."]),
+  ("Packaging Removal and Debris", [
+   "The unglamorous half of white-glove: every box, crate, foam block, and pallet leaves with us. Your install photos don't include a mountain of cardboard in the driveway, and your client doesn't spend their first evening breaking down packaging. We haul it all — that's part of the job, not an add-on.",
+   "For pieces arriving crated from out of town, we uncrate on site with the right tools and take the crate with us. If a piece arrives damaged, we document it with photos before anything else happens, so your claim with the vendor starts clean."]),
+  ("What White-Glove Delivery Costs", [
+   "Delivery work runs on our standard hourly rates: two movers plus truck at $140/hr, three at $195/hr, four at $250/hr, plus a one-hour service fee. Most single-room installs finish in 1–3 hours; full-home installs scale with the piece count.",
+   "If you're a designer with recurring delivery needs, talk to us about standing scheduling — a regular slot beats a scramble every time. And if a client needs the old furniture gone to make room, we handle donation drop-offs and haul-offs on the same visit."]),
+ ],
+ "faqs": [
+  ("Do you deliver furniture from local retailers and showrooms?", "Yes — pickups from showrooms, warehouses, and retailers across Knoxville, with room-of-choice placement and packaging removal included."),
+  ("Will you place pieces exactly where I want them?", "Yes. We place on your direction, step back, and adjust until it's right. The crew lead stays reachable all day as the install plan evolves."),
+  ("Do you remove packaging and crates?", "Yes — all boxes, crates, foam, and pallets leave with us. For crated pieces arriving damaged, we photograph everything before uncrating to protect your vendor claim."),
+  ("Can you handle recurring delivery work for my firm?", "Yes. Designers with regular install schedules can set up standing delivery slots. Call (865) 936-3891 to talk through your typical volume."),
+  ("Are you licensed and insured?", "Yes. Angry Ducks Moving is a licensed and insured moving company serving Knoxville and East Tennessee."),
+ ],
+ "related": [("Furniture Delivery", "/furniture-delivery/"), ("Local Moving", "/local-moving/"), ("Furniture Assembly", "/furniture-assembly/"), ("Storage Unit Moving", "/storage-unit-moving/")],
+},
+
 ]
 
 if __name__ == "__main__":

@@ -371,6 +371,9 @@ PAGES = [
   ("Labor-Only and Container Loads", [
    "Moving yourself with a U-Box, PODS, or rental truck? Our labor-only crews load Oak Ridge homes correctly — weight distributed, everything strapped, fragiles protected — so your DIY move survives the interstate. Two movers at $100/hr, two-hour minimum, pads and dollies included on local work.",
    "We're licensed and insured, open Monday–Saturday 7 AM–8 PM. Call (865) 936-3891 for a straight answer on timing and crew size, or get an instant quote from Sarge on our homepage."]),
+  ("Oak Ridge and Anderson County — Our Service Area", [
+   "Oak Ridge is where we built our relocation-move reputation, but our crews are on the road across Anderson County regularly: Clinton, Norris, and Rocky Top are all regular stops, and we cross into Roane County for Harriman, Kingston, and Rockwood jobs too. Moving between Oak Ridge and Knoxville? We know that corridor cold.",
+   "No matter which town you're in, the deal is the same: licensed and insured crews, hourly rates posted on our homepage ($140/hr for two movers plus the truck, $100/hr labor-only for two movers), and a straight answer about crew size and timing when you call (865) 936-3891."]),
  ],
  "faqs": [
   ("Can you handle a last-minute Oak Ridge move?", "Often, yes. Relocation timelines are our specialty — call and we'll tell you honestly what crews are open."),
@@ -378,6 +381,7 @@ PAGES = [
   ("Are you insured?", "Yes, Angry Ducks Moving is licensed and insured for residential moves across East Tennessee."),
   ("My Oak Ridge building needs a certificate of insurance. Can you provide one?", "Yes. We're a licensed and insured moving company — tell us at booking that your building or complex requires a COI and we'll arrange one before moving day."),
   ("Do you work around freight elevator reservations?", "Yes. For buildings with freight elevators or loading docks, reserve your window with the property manager — ideally a couple of weeks out — and tell us the slot when you book. We'll arrive ready to work it."),
+  ("Do I need to check with my HOA before moving in Oak Ridge?", "If you're in a newer subdivision or an HOA neighborhood, yes — check two to three weeks before moving day. Some Oak Ridge-area HOAs restrict where a moving truck can park or require a certificate of insurance from your movers, and townhome or condo buildings may have elevator reservations or freight-dock windows. We handle COIs and scheduled arrival windows routinely — just tell us the rules when you book and we'll work around them."),
  ],
  "related": [("Local Moving", "/local-moving/"), ("Labor-Only Moving", "/labor-only-moving/"), ("Movers in Farragut", "/movers-farragut-tn/"), ("Movers in Bearden", "/movers-bearden-tn/")],
 },

@@ -576,7 +576,7 @@ PAGES = [
   ("We're moving from Knoxville to Lenoir City — is that a full day?", "Usually a single day: load in the morning, drive the corridor, unload in the afternoon. We'll confirm timing when you call."),
   ("Do you offer packing services in Lenoir City?", "Yes — full-home packing, partial packing, and unpacking with debris removal."),
  ],
- "related": [("Local Moving", "/local-moving/"), ("Packing & Unpacking", "/packing-and-unpacking/"), ("Movers in Farragut", "/movers-farragut-tn/"), ("Movers in Maryville", "/movers-maryville-tn/")],
+ "related": [("Local Moving", "/local-moving/"), ("Packing & Unpacking", "/packing-and-unpacking/"), ("Movers in Farragut", "/movers-farragut-tn/"), ("Movers in Maryville", "/movers-maryville-tn/"), ("Movers in Loudon", "/movers-loudon-tn/")],
 },
 {
  "slug": "movers-hardin-valley-tn",
@@ -970,6 +970,34 @@ PAGES = [
   ("Are you licensed and insured?", "Yes. Angry Ducks Moving is a licensed and insured moving company serving Knoxville and East Tennessee."),
  ],
  "related": [("Furniture Delivery", "/furniture-delivery/"), ("Local Moving", "/local-moving/"), ("Furniture Assembly", "/furniture-assembly/"), ("Storage Unit Moving", "/storage-unit-moving/")],
+},
+{
+ "slug": "movers-loudon-tn",
+ "title": "Movers in Loudon, TN | Angry Ducks Moving",
+ "meta": "Movers in Loudon, TN — full-service moves, labor-only help & packing from Angry Ducks Moving, serving Loudon, Tellico Village & Loudon County. Call (865) 936-3891.",
+ "canonical": BASE + "/movers-loudon-tn/",
+ "crumb": "Movers in Loudon",
+ "h1": "Movers in Loudon, TN",
+ "area_served": "Loudon, TN (Loudon County)",
+ "intro": "Loudon is the quiet county seat on the Tennessee River — a historic downtown, lakefront homes along Fort Loudoun Lake, and a short drive from Lenoir City and Tellico Village. Angry Ducks Moving serves Loudon with full-service residential moves, labor-only loading help for rental trucks and containers, packing services, and furniture assembly, from downtown's older homes to the new builds spreading toward the interstate.",
+ "sections": [
+  ("Loudon Moves: Downtown, Lakefront, and New Builds", [
+   "Downtown Loudon's older homes are the charming kind and the complicated kind: narrow doorways, steep staircases, and porches built before anyone measured a sleeper sofa. We walk the carry route first, pad the tight spots, and bring the crew size that matches the house — most downtown jobs run smooth with three movers ($195/hr) instead of two movers stretching the day.",
+   "Out toward the lake, the challenge flips to access: long driveways, boat docks' worth of gear, garages full of lake toys, and properties where the truck stages a good walk from the front door. The new builds off the interstate corridor bring fresh paint and pristine floors, so floor runners and door jamb protectors go down before the first box moves. Tell us about your property when you book and we'll arrive with the right plan."]),
+  ("Knoxville-to-Loudon and the I-75 Corridor", [
+   "A steady share of our work is Knoxville families moving southwest for space and lake access. We run the I-40/I-75 corridor constantly, so a Knoxville-to-Loudon move is routine for us — loaded in the morning, unloaded by afternoon, beds reassembled before dinner.",
+   "Loudon also sees a lot of retirees settling into Tellico Village and the lake communities, downsizing from a lifetime of belongings into a condo or villa with HOA move-in rules. Our unpacking service — kitchen and bedrooms set up, boxes broken down and hauled away — turns a chaotic arrival into a settled home in a single day. Pair it with furniture assembly and the place is genuinely livable when we leave."]),
+  ("Labor-Only Help and Straightforward Pricing", [
+   "Loudon is a do-it-yourself kind of town, and labor-only help is one of our most-booked job types here. Rent the truck or container — U-Haul, Penske, PODS, U-Box — and we'll load it the way professionals do: heavy furniture as the base layer, boxes stacked by weight, everything strapped and padded so the drive survives the trip across the county or across the state.",
+   "Standard Angry Ducks rates apply: 2 movers + truck $140/hr, 3 movers $195/hr, 4 movers $250/hr plus a one-hour service fee; labor-only crews from $100/hr with a two-hour minimum. Licensed and insured, open Monday–Saturday 7 AM–8 PM, closed Sundays. Call (865) 936-3891 for a straight answer on crew size and timing, or get an instant quote from Sarge on our homepage."]),
+ ],
+ "faqs": [
+  ("Do you serve Tellico Village and the lake communities?", "Yes — Tellico Village, the Fort Loudoun Lake shoreline, and all of Loudon County are regular service areas, including village condos and villas with HOA move-in rules."),
+  ("How much does a move in Loudon cost?", "Full-service moves run $140/hr for two movers plus the truck, with a one-hour service fee. Labor-only help is $100/hr for two movers with a two-hour minimum. Call for a straight answer based on your home size and distance."),
+  ("Can you load my rental truck or PODS container in Loudon?", "Yes — U-Haul, Penske, Budget trucks, PODS, and U-Box containers are regular jobs for us. We load them correctly so nothing shifts in transit."),
+  ("Do you serve towns around Loudon?", "Absolutely — Lenoir City, Tellico Village, Philadelphia, Greenback, and Vonore, plus Knoxville and all of East Tennessee."),
+ ],
+ "related": [("Movers in Lenoir City", "/movers-lenoir-city-tn/"), ("Local Moving", "/local-moving/"), ("Packing & Unpacking", "/packing-and-unpacking/"), ("Labor-Only Moving", "/labor-only-moving/")],
 },
 
 ]

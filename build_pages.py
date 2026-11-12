@@ -353,6 +353,34 @@ PAGES = [
  "related": [("Local Moving", "/local-moving/"), ("Labor-Only Moving", "/labor-only-moving/"), ("Movers in Maryville", "/movers-maryville-tn/"), ("Movers in Lenoir City", "/movers-lenoir-city-tn/")],
 },
 {
+ "slug": "movers-sevierville-tn",
+ "title": "Movers in Sevierville, TN | Angry Ducks Moving",
+ "meta": "Movers in Sevierville, TN — full-service moves, cabin & foothills moving, labor-only help & packing from Angry Ducks Moving, serving Sevierville, Pigeon Forge & Sevier County. Call (865) 936-3891.",
+ "canonical": BASE + "/movers-sevierville-tn/",
+ "crumb": "Movers in Sevierville",
+ "h1": "Movers in Sevierville, TN",
+ "area_served": "Sevierville, TN",
+ "intro": "Sevierville sits at the door of the Smokies — a fast-growing city where the Parkway corridor, the foothills, and the Knoxville commute all meet. Angry Ducks Moving serves Sevierville with full-service residential moves, cabin and foothills moving, labor-only loading help for rental trucks and containers, packing services, and furniture assembly — from the new neighborhoods along the Parkway to the cabins and ridgetop homes in the hills above town.",
+ "sections": [
+  ("Sevierville Moves: Corridor Homes, Cabins, and Foothills", [
+   "Sevierville moves come in two flavors, and our crews handle both. In town, it's growth: new subdivisions along Winfield Dunn Parkway and Highway 66, commuters splitting time between Knoxville and Sevier County, and families upsizing as the area booms. These moves are about speed and clean execution — tight streets, new-construction finishes that mark if you look at them wrong, and neighbors who are also mid-move.",
+   "Then there's the foothills: cabins, chalets, and ridgetop homes reached by winding roads, steep gravel drives, and turns a big truck simply can't make. Those jobs are about planning — figuring out where the truck can actually park, staging gear close to the house, and building the carry plan before the first box moves. Tell us what your road looks like when you book and we'll arrive with the right crew size and the right plan."]),
+  ("Cabin Moves Are a Specialty Job", [
+   "Cabins don't move like houses. Multi-level layouts with exterior stairs, hot tubs on decks, bunk rooms packed with beds, tight spiral staircases, and furniture that came up the hill in pieces all need a different approach than a ranch on a flat lot. We disassemble what needs it, pad the stairwells, and protect the railings and decking that make cabins cabins.",
+   "We also move rental cabins — turnover day, owner retreats becoming full-time homes, and furnished cabins changing hands. If you're buying or selling a cabin, we can move the household goods out, bring the new owner's furniture up the hill, and clear the property clean in one visit. Long carries are part of the territory up here, and we quote them honestly: the clock runs on the carry, so we'll tell you straight what to expect when you describe the property."]),
+  ("Labor-Only Help and Straightforward Pricing", [
+   "Sevier County is a do-it-yourself kind of place, and labor-only help is one of our most-booked job types here. Rent the truck or container — U-Haul, Penske, PODS, U-Box — and we'll load it the way professionals do: heavy furniture as the base layer, boxes stacked by weight, everything strapped and padded so the drive survives the trip across town or across the state.",
+   "Standard Angry Ducks rates apply: 2 movers + truck $140/hr, 3 movers $195/hr, 4 movers $250/hr plus a one-hour service fee; labor-only crews from $100/hr with a two-hour minimum. Licensed and insured, open Monday–Saturday 7 AM–8 PM, closed Sundays. Call (865) 936-3891 for a straight answer on crew size and timing, or get an instant quote from Sarge on our homepage."]),
+ ],
+ "faqs": [
+  ("Do you serve Sevierville and the Pigeon Forge area?", "Yes — Sevierville, Pigeon Forge, and the Sevier County foothills are regular service areas, along with Kodak, Boyds Creek, and Wears Valley."),
+  ("Can you move a cabin with a steep or narrow driveway?", "Yes — this is some of our most-requested work in the Sevier County area. Tell us about the road, the grade, and where a truck can park when you book, and we'll plan the carry, the crew size, and the staging before moving day."),
+  ("How much does a move in Sevierville cost?", "Full-service moves run $140/hr for two movers plus the truck, with a one-hour service fee. Labor-only help is $100/hr for two movers with a two-hour minimum. Cabin moves with long carries take longer on the clock — call for a straight estimate based on your property's access."),
+  ("Do you load U-Haul trucks or PODS for moves out of Sevier County?", "Yes — U-Haul, Penske, Budget trucks, PODS, and U-Box containers are regular jobs for us. We load them correctly so nothing shifts in transit, whether you're headed across Tennessee or across the country."),
+ ],
+ "related": [("Local Moving", "/local-moving/"), ("Labor-Only Moving", "/labor-only-moving/"), ("Movers in Seymour", "/movers-seymour-tn/"), ("Movers in Pigeon Forge", "/movers-pigeon-forge-tn/"), ("Packing & Unpacking", "/packing-and-unpacking/")],
+},
+{
  "slug": "movers-oak-ridge-tn",
  "title": "Movers in Oak Ridge, TN | Angry Ducks Moving",
  "meta": "Movers in Oak Ridge, TN — Angry Ducks Moving serves Oak Ridge lab families and professionals with full-service moves and labor-only help. Call (865) 936-3891.",
@@ -998,6 +1026,62 @@ PAGES = [
   ("Do you serve towns around Loudon?", "Absolutely — Lenoir City, Tellico Village, Philadelphia, Greenback, and Vonore, plus Knoxville and all of East Tennessee."),
  ],
  "related": [("Movers in Lenoir City", "/movers-lenoir-city-tn/"), ("Local Moving", "/local-moving/"), ("Packing & Unpacking", "/packing-and-unpacking/"), ("Labor-Only Moving", "/labor-only-moving/")],
+},
+{
+ "slug": "movers-kingston-tn",
+ "title": "Movers in Kingston, TN | Angry Ducks Moving",
+ "meta": "Movers in Kingston, TN — full-service moves, labor-only help & packing from Angry Ducks Moving, serving Kingston, Watts Bar Lake & Roane County. Call (865) 936-3891.",
+ "canonical": BASE + "/movers-kingston-tn/",
+ "crumb": "Movers in Kingston",
+ "h1": "Movers in Kingston, TN",
+ "area_served": "Kingston, TN (Roane County)",
+ "intro": "Kingston is the Roane County seat where the Clinch River meets the Tennessee River — a historic downtown around Fort Southwest Point, lakefront homes along Watts Bar Lake, and a short drive up I-40 from Oak Ridge and Knoxville. Angry Ducks Moving serves Kingston with full-service residential moves, labor-only loading help for rental trucks and containers, packing services, and furniture assembly, from downtown's older homes to the new builds spreading toward the interstate.",
+ "sections": [
+  ("Kingston Moves: Downtown, Lakefront, and Lab Commuters", [
+   "Downtown Kingston's older homes are the charming kind and the complicated kind: narrow doorways, steep staircases, and porches built before anyone measured a sleeper sofa. We walk the carry route first, pad the tight spots, and bring the crew size that matches the house — most downtown jobs run smooth with three movers ($195/hr) instead of two movers stretching the day.",
+   "A big share of Kingston moves belong to families relocating for work at Oak Ridge National Laboratory, Y-12, and the other employers up the road in Oak Ridge. Those moves run on a weekday schedule and often pair a Kingston home with an Oak Ridge apartment or a Knoxville rental while the family settles in — we handle the staging, the storage-unit stop, and the second address in one day when the plan calls for it."]),
+  ("Kingston-to-Oak Ridge and the I-40 Corridor", [
+   "Kingston sits right on I-40, about twenty minutes west of Oak Ridge and half an hour from downtown Knoxville, so moves along the corridor are routine for us — loaded in the morning in Kingston, unloaded by afternoon in Oak Ridge, Knoxville, or Harriman, beds reassembled before dinner.",
+   "The lakefront side of town brings its own logistics: long driveways, boat docks' worth of gear, garages full of lake toys, and properties where the truck stages a good walk from the front door. Tell us about your property when you book and we'll arrive with the right plan — floor runners and door jamb protectors go down before the first box moves in a new build."]),
+  ("Labor-Only Help and Straightforward Pricing", [
+   "Kingston is a do-it-yourself kind of town, and labor-only help is one of our most-booked job types here. Rent the truck or container — U-Haul, Penske, PODS, U-Box — and we'll load it the way professionals do: heavy furniture as the base layer, boxes stacked by weight, everything strapped and padded so the drive survives the trip across the county or across the state.",
+   "Standard Angry Ducks rates apply: 2 movers + truck $140/hr, 3 movers $195/hr, 4 movers $250/hr plus a one-hour service fee; labor-only crews from $100/hr with a two-hour minimum. Licensed and insured, open Monday–Saturday 7 AM–8 PM, closed Sundays. Call (865) 936-3891 for a straight answer on crew size and timing, or get an instant quote from Sarge on our homepage."]),
+ ],
+ "faqs": [
+  ("How much does a move in Kingston cost?", "Full-service moves run $140/hr for two movers plus the truck, with a one-hour service fee. Labor-only help is $100/hr for two movers with a two-hour minimum. Call for a straight answer based on your home size and distance."),
+  ("Do you move families relocating for ORNL or Y-12?", "Yes — Kingston-to-Oak Ridge moves are routine for us, including weekday scheduling around lab hours, storage-unit stops, and second-address deliveries while a family settles in."),
+  ("Can you load my rental truck or PODS container in Kingston?", "Yes — U-Haul, Penske, Budget trucks, PODS, and U-Box containers are regular jobs for us. We load them correctly so nothing shifts in transit."),
+  ("Do you serve towns around Kingston?", "Absolutely — Harriman, Rockwood, Oak Ridge, Clinton, and Lenoir City, plus Knoxville and all of East Tennessee."),
+ ],
+ "related": [("Movers in Oak Ridge", "/movers-oak-ridge-tn/"), ("Movers in Clinton", "/movers-clinton-tn/"), ("Local Moving", "/local-moving/"), ("Labor-Only Moving", "/labor-only-moving/")],
+},
+{
+ "slug": "movers-pigeon-forge-tn",
+ "title": "Movers in Pigeon Forge, TN | Angry Ducks Moving",
+ "meta": "Movers in Pigeon Forge, TN — full-service moves, cabin & vacation-rental turnover, labor-only help & packing from Angry Ducks Moving, serving Pigeon Forge, Gatlinburg & Sevier County. Call (865) 936-3891.",
+ "canonical": BASE + "/movers-pigeon-forge-tn/",
+ "crumb": "Movers in Pigeon Forge",
+ "h1": "Movers in Pigeon Forge, TN",
+ "area_served": "Pigeon Forge, TN",
+ "intro": "Pigeon Forge sits on the Parkway in the foothills of the Smokies — a town built around cabins, condos, and vacation rentals, where moves run on turnover day and the roads climb. Angry Ducks Moving serves Pigeon Forge with full-service residential moves, cabin and vacation-rental turnover help, labor-only loading help for rental trucks and containers, packing services, and furniture assembly — from the condos and townhomes along the Parkway to the cabins tucked into the hills above town.",
+ "sections": [
+  ("Pigeon Forge Moves: Parkway Condos, Cabins, and the Tourist Corridor", [
+   "In town, Pigeon Forge moves are about timing. Condos and townhomes along the Parkway turn over on check-in and check-out windows, and a crew that shows up late costs a rental owner a night's booking. Our crews plan around those windows: elevator and stair access mapped before arrival, truck parking sorted on the Parkway's busy stretches, and the load staged so the unload lands in the right rooms the first time.",
+   "Then there's the hills above town: cabins, chalets, and ridgetop homes reached by winding roads, steep gravel drives, and turns a big truck simply can't make. Those jobs are about planning — figuring out where the truck can actually park, staging gear close to the house, and building the carry plan before the first box moves. Tell us what your road looks like when you book and we'll arrive with the right crew size and the right plan."]),
+  ("Cabin and Vacation-Rental Turnover Moves", [
+   "Cabins don't move like houses. Multi-level layouts with exterior stairs, hot tubs on decks, bunk rooms packed with beds, tight spiral staircases, and furniture that came up the hill in pieces all need a different approach than a ranch on a flat lot. We disassemble what needs it, pad the stairwells, and protect the railings and decking that make cabins cabins.",
+   "We also move rental cabins — turnover day, owner retreats becoming full-time homes, and furnished cabins changing hands. If you're buying or selling a cabin, we can move the household goods out, bring the new owner's furniture up the hill, and clear the property clean in one visit. Long carries are part of the territory up here, and we quote them honestly: the clock runs on the carry, so we'll tell you straight what to expect when you describe the property."]),
+  ("Labor-Only Help and Straightforward Pricing", [
+   "Sevier County is a do-it-yourself kind of place, and labor-only help is one of our most-booked job types here. Rent the truck or container — U-Haul, Penske, PODS, U-Box — and we'll load it the way professionals do: heavy furniture as the base layer, boxes stacked by weight, everything strapped and padded so the drive survives the trip across town or across the state.",
+   "Standard Angry Ducks rates apply: 2 movers + truck $140/hr, 3 movers $195/hr, 4 movers $250/hr plus a one-hour service fee; labor-only crews from $100/hr with a two-hour minimum. Licensed and insured, open Monday–Saturday 7 AM–8 PM, closed Sundays. Call (865) 936-3891 for a straight answer on crew size and timing, or get an instant quote from Sarge on our homepage."]),
+ ],
+ "faqs": [
+  ("Do you serve Pigeon Forge and Gatlinburg?", "Yes — Pigeon Forge, Gatlinburg, and the Sevier County foothills are regular service areas, along with Sevierville, Wears Valley, and Pittman Center."),
+  ("Can you move a cabin with a steep or narrow driveway?", "Yes — this is some of our most-requested work in the Sevier County area. Tell us about the road, the grade, and where a truck can park when you book, and we'll plan the carry, the crew size, and the staging before moving day."),
+  ("How much does a move in Pigeon Forge cost?", "Full-service moves run $140/hr for two movers plus the truck, with a one-hour service fee. Labor-only help is $100/hr for two movers with a two-hour minimum. Cabin moves with long carries take longer on the clock — call for a straight estimate based on your property's access."),
+  ("Do you help with vacation-rental turnover moves?", "Yes — furnished cabin changeovers, owner turnovers, and seasonal furniture refreshes are regular jobs for us. We work around check-in and check-out windows so the property is ready for the next guests, and we haul away the old pieces and packaging when we're done."),
+ ],
+ "related": [("Local Moving", "/local-moving/"), ("Labor-Only Moving", "/labor-only-moving/"), ("Movers in Sevierville", "/movers-sevierville-tn/"), ("Movers in Seymour", "/movers-seymour-tn/")],
 },
 
 ]

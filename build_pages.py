@@ -1081,7 +1081,35 @@ PAGES = [
   ("How much does a move in Pigeon Forge cost?", "Full-service moves run $140/hr for two movers plus the truck, with a one-hour service fee. Labor-only help is $100/hr for two movers with a two-hour minimum. Cabin moves with long carries take longer on the clock — call for a straight estimate based on your property's access."),
   ("Do you help with vacation-rental turnover moves?", "Yes — furnished cabin changeovers, owner turnovers, and seasonal furniture refreshes are regular jobs for us. We work around check-in and check-out windows so the property is ready for the next guests, and we haul away the old pieces and packaging when we're done."),
  ],
- "related": [("Local Moving", "/local-moving/"), ("Labor-Only Moving", "/labor-only-moving/"), ("Movers in Sevierville", "/movers-sevierville-tn/"), ("Movers in Seymour", "/movers-seymour-tn/")],
+ "related": [("Local Moving", "/local-moving/"), ("Labor-Only Moving", "/labor-only-moving/"), ("Movers in Sevierville", "/movers-sevierville-tn/"), ("Movers in Seymour", "/movers-seymour-tn/"), ("Movers in Gatlinburg", "/movers-gatlinburg-tn/")],
+},
+{
+ "slug": "movers-gatlinburg-tn",
+ "title": "Movers in Gatlinburg, TN | Angry Ducks Moving",
+ "meta": "Movers in Gatlinburg, TN — full-service moves, chalet & vacation-rental turnover, labor-only help & packing from Angry Ducks Moving, serving Gatlinburg, Pigeon Forge & Sevier County. Call (865) 936-3891.",
+ "canonical": BASE + "/movers-gatlinburg-tn/",
+ "crumb": "Movers in Gatlinburg",
+ "h1": "Movers in Gatlinburg, TN",
+ "area_served": "Gatlinburg, TN",
+ "intro": "Gatlinburg sits at the door of Great Smoky Mountains National Park, where the Parkway climbs into the mountains and the town runs on cabins, chalets, and vacation rentals. Angry Ducks Moving serves Gatlinburg with full-service residential moves, chalet and vacation-rental turnover help, labor-only loading help for rental trucks and containers, packing services, and furniture assembly — from the condos and townhomes along the Parkway to the chalets tucked into the hills above town.",
+ "sections": [
+  ("Gatlinburg Moves: Mountain Roads, Chalets, and the Parkway", [
+   "Gatlinburg moves are about the road. Downtown condos and townhomes along the Parkway turn over on check-in and check-out windows, and a crew that shows up late costs a rental owner a night's booking. Our crews plan around those windows: elevator and stair access mapped before arrival, truck parking sorted on the Parkway's busiest stretches, and the load staged so the unload lands in the right rooms the first time.",
+   "Then there's the hillside above town: chalets and ridgetop homes reached by winding mountain roads, steep gravel drives, and hairpin turns a big truck simply can't make. Those jobs are about planning — figuring out where the truck can actually park, staging gear close to the house, and building the carry plan before the first box moves. Tell us what your road looks like when you book and we'll arrive with the right crew size and the right plan."]),
+  ("Chalet and Vacation-Rental Turnover Moves", [
+   "Chalets don't move like houses. Multi-level layouts with loft bedrooms, exterior stairs, hot tubs on decks, bunk rooms packed with beds, and furniture that came up the mountain in pieces all need a different approach than a ranch on a flat lot. We disassemble what needs it, pad the stairwells, and protect the railings and decking that make mountain homes mountain homes.",
+   "We also move rental chalets — turnover day, owner retreats becoming full-time homes, and furnished chalets changing hands. If you're buying or selling in Gatlinburg, we can move the household goods out, bring the new owner's furniture up the hill, and clear the property clean in one visit. Long carries are part of the territory up here, and we quote them honestly: the clock runs on the carry, so we'll tell you straight what to expect when you describe the property."]),
+  ("Labor-Only Help and Straightforward Pricing", [
+   "Sevier County is a do-it-yourself kind of place, and labor-only help is one of our most-booked job types here. Rent the truck or container — U-Haul, Penske, PODS, U-Box — and we'll load it the way professionals do: heavy furniture as the base layer, boxes stacked by weight, everything strapped and padded so the drive survives the trip down the mountain and across the state.",
+   "Standard Angry Ducks rates apply: 2 movers + truck $140/hr, 3 movers $195/hr, 4 movers $250/hr plus a one-hour service fee; labor-only crews from $100/hr with a two-hour minimum. Licensed and insured, open Monday–Saturday 7 AM–8 PM, closed Sundays. Call (865) 936-3891 for a straight answer on crew size and timing, or get an instant quote from Sarge on our homepage."]),
+ ],
+ "faqs": [
+  ("Do you serve Gatlinburg and the surrounding mountain communities?", "Yes — Gatlinburg, Pigeon Forge, and the Sevier County foothills are regular service areas, along with Sevierville, Wears Valley, Pittman Center, and the Arts & Crafts Community."),
+  ("Can you move a chalet on a steep mountain road?", "Yes — this is some of our most-requested work in the Sevier County area. Tell us about the road, the grade, and where a truck can park when you book, and we'll plan the carry, the crew size, and the staging before moving day."),
+  ("How much does a move in Gatlinburg cost?", "Full-service moves run $140/hr for two movers plus the truck, with a one-hour service fee. Labor-only help is $100/hr for two movers with a two-hour minimum. Chalet moves with long carries take longer on the clock — call for a straight estimate based on your property's access."),
+  ("Do you help with vacation-rental turnover moves?", "Yes — furnished chalet changeovers, owner turnovers, and seasonal furniture refreshes are regular jobs for us. We work around check-in and check-out windows so the property is ready for the next guests, and we haul away the old pieces and packaging when we're done."),
+ ],
+ "related": [("Movers in Pigeon Forge", "/movers-pigeon-forge-tn/"), ("Movers in Sevierville", "/movers-sevierville-tn/"), ("Local Moving", "/local-moving/"), ("Labor-Only Moving", "/labor-only-moving/")],
 },
 
 ]

@@ -604,7 +604,7 @@ PAGES = [
   ("We're moving from Knoxville to Lenoir City — is that a full day?", "Usually a single day: load in the morning, drive the corridor, unload in the afternoon. We'll confirm timing when you call."),
   ("Do you offer packing services in Lenoir City?", "Yes — full-home packing, partial packing, and unpacking with debris removal."),
  ],
- "related": [("Local Moving", "/local-moving/"), ("Packing & Unpacking", "/packing-and-unpacking/"), ("Movers in Farragut", "/movers-farragut-tn/"), ("Movers in Maryville", "/movers-maryville-tn/"), ("Movers in Loudon", "/movers-loudon-tn/")],
+ "related": [("Local Moving", "/local-moving/"), ("Packing & Unpacking", "/packing-and-unpacking/"), ("Movers in Farragut", "/movers-farragut-tn/"), ("Movers in Maryville", "/movers-maryville-tn/"), ("Movers in Loudon", "/movers-loudon-tn/"), ("Movers in Tellico Village", "/movers-tellico-village-tn/")],
 },
 {
  "slug": "movers-hardin-valley-tn",
@@ -1025,7 +1025,7 @@ PAGES = [
   ("Can you load my rental truck or PODS container in Loudon?", "Yes — U-Haul, Penske, Budget trucks, PODS, and U-Box containers are regular jobs for us. We load them correctly so nothing shifts in transit."),
   ("Do you serve towns around Loudon?", "Absolutely — Lenoir City, Tellico Village, Philadelphia, Greenback, and Vonore, plus Knoxville and all of East Tennessee."),
  ],
- "related": [("Movers in Lenoir City", "/movers-lenoir-city-tn/"), ("Local Moving", "/local-moving/"), ("Packing & Unpacking", "/packing-and-unpacking/"), ("Labor-Only Moving", "/labor-only-moving/")],
+ "related": [("Movers in Tellico Village", "/movers-tellico-village-tn/"), ("Movers in Lenoir City", "/movers-lenoir-city-tn/"), ("Local Moving", "/local-moving/"), ("Packing & Unpacking", "/packing-and-unpacking/"), ("Labor-Only Moving", "/labor-only-moving/")],
 },
 {
  "slug": "movers-kingston-tn",
@@ -1110,6 +1110,34 @@ PAGES = [
   ("Do you help with vacation-rental turnover moves?", "Yes — furnished chalet changeovers, owner turnovers, and seasonal furniture refreshes are regular jobs for us. We work around check-in and check-out windows so the property is ready for the next guests, and we haul away the old pieces and packaging when we're done."),
  ],
  "related": [("Movers in Pigeon Forge", "/movers-pigeon-forge-tn/"), ("Movers in Sevierville", "/movers-sevierville-tn/"), ("Local Moving", "/local-moving/"), ("Labor-Only Moving", "/labor-only-moving/")],
+},
+{
+ "slug": "movers-tellico-village-tn",
+ "title": "Movers in Tellico Village, TN | Angry Ducks Moving",
+ "meta": "Movers in Tellico Village, TN — full-service moves, villa & condo moving, labor-only help & packing from Angry Ducks Moving, serving Tellico Village & Loudon County. Call (865) 936-3891.",
+ "canonical": BASE + "/movers-tellico-village-tn/",
+ "crumb": "Movers in Tellico Village",
+ "h1": "Movers in Tellico Village, TN",
+ "area_served": "Tellico Village, TN (Loudon County)",
+ "intro": "Tellico Village is East Tennessee lake living at full stretch — a planned community on the shores of Tellico Lake, built around golf courses, marinas, and quiet village streets, where most moves belong to retirees settling in or downsizing within the Village. Angry Ducks Moving serves Tellico Village with full-service residential moves, villa and condo moving, labor-only loading help for rental trucks and containers, packing services, and furniture assembly, from lakefront homes to the condos and villas tucked into the village neighborhoods.",
+ "sections": [
+  ("Village Moves: Condos, Villas, and Lake Homes", [
+   "Tellico Village moves have their own rhythm. A lot of them are downsizing moves — a lifetime of belongings going into a villa or condo with property owners association move-in rules, gate access to arrange, and rooms that need measuring before the big pieces arrive. Our crews handle the logistics — association rules, elevator reservations where they apply, tight village streets — while treating a lifetime's possessions with the care they deserve.",
+   "Lakefront homes bring a different job: long driveways, boat docks' worth of gear, garages full of lake toys, and properties where the truck stages a good walk from the front door. The new builds and the established neighborhoods alike get the same treatment: floor runners and door jamb protectors down before the first box moves, and furniture wrapped, padded, and placed in the room you pick — not left in the garage."]),
+  ("Moving Into Tellico Village From Out of State", [
+   "Most Tellico Village arrivals come from out of state — retirees trading a big family home for lake life, often arriving the same week the moving truck does. We run that job constantly: the household goods arrive, we unload, and our unpacking service — kitchen and bedrooms set up, boxes broken down and hauled away — turns a chaotic arrival into a settled home in a single day. Pair it with furniture assembly and the place is genuinely livable when we leave.",
+   "If you're between closings or the new place isn't ready, ask about a split move — we can load, hold, and deliver on your schedule, or coordinate with a storage unit in Lenoir City or Loudon. And if you're moving within the Village — villa to condo, condo to lakefront — short-distance moves like these are where an experienced local crew shines: loaded, transported, and unloaded in a single efficient day."]),
+  ("Labor-Only Help and Straightforward Pricing", [
+   "Tellico Village is a do-it-yourself kind of community, and labor-only help is one of our most-booked job types here. Rent the truck or container — U-Haul, Penske, PODS, U-Box — and we'll load it the way professionals do: heavy furniture as the base layer, boxes stacked by weight, everything strapped and padded so the drive survives the trip across the county or across the country.",
+   "Standard Angry Ducks rates apply: 2 movers + truck $140/hr, 3 movers $195/hr, 4 movers $250/hr plus a one-hour service fee; labor-only crews from $100/hr with a two-hour minimum. Licensed and insured, open Monday–Saturday 7 AM–8 PM, closed Sundays. Call (865) 936-3891 for a straight answer on crew size and timing, or get an instant quote from Sarge on our homepage."]),
+ ],
+ "faqs": [
+  ("Do you move villas and condos in Tellico Village?", "Yes — villas, condos, townhomes, and single-family lake homes are regular jobs for us, including properties with property owners association move-in rules, gate access, and elevator reservations."),
+  ("Can you load my rental truck or PODS container in Tellico Village?", "Yes — U-Haul, Penske, Budget trucks, PODS, and U-Box containers are regular jobs for us. We load them correctly so nothing shifts in transit."),
+  ("How much does a move in Tellico Village cost?", "Full-service moves run $140/hr for two movers plus the truck, with a one-hour service fee. Labor-only help is $100/hr for two movers with a two-hour minimum. Call for a straight answer based on your home size and distance."),
+  ("Do you serve towns around Tellico Village?", "Absolutely — Lenoir City, Loudon, Greenback, Vonore, and Philadelphia, plus Knoxville and all of East Tennessee."),
+ ],
+ "related": [("Movers in Lenoir City", "/movers-lenoir-city-tn/"), ("Movers in Loudon", "/movers-loudon-tn/"), ("Local Moving", "/local-moving/"), ("Labor-Only Moving", "/labor-only-moving/")],
 },
 
 ]

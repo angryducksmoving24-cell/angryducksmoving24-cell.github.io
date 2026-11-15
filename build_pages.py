@@ -203,6 +203,10 @@ PAGES = [
   ("Small Jobs and Mini-Moves", [
    "Not every job is a full house. A big share of our labor-only work is the small stuff: moving a single heavy dresser upstairs, carrying a new mattress to the second floor, loading a few pieces into a storage unit, rearranging a living room, or helping clear a rental turnover. These mini-moves run on the same hourly rate — $100/hr for two movers, two-hour minimum — and get the same care as the big jobs: pads, dollies, straps, and crews who do this daily.",
    "Think of us for the in-between jobs too: the couch that arrived while your back is acting up, the treadmill that needs to move from the garage to the basement, the estate cleanout with a trailer to fill. One call, a couple of hours, and it's handled — no minimum crew drama, no full-day booking required."]),
+  ("How a Labor-Only Booking Works", [
+   "First, tell us the job: call (865) 936-3891 with the date, the address, what's moving, and what it's going into — truck size, container type, storage unit, or just room-to-room inside the house. Stairs, long carries, and tight parking matter, so mention them; they decide crew size, not surprises on the day.",
+   "Second, we size the crew to the load: two movers for a studio or a single heavy piece, three or four when there's a full house or a 26-footer to fill before dark. You get a straight answer on crew size and the hourly rate — $100/hr for two movers, $165 for three, $225 for four, two-hour minimum.",
+   "Third, the crew shows up with dollies, pads, and shrink wrap and loads it right: heavy low, tiers built tight, everything strapped so the load doesn't shift on the road. You drive; we do the lifting. Same crew, same standard, whether it's a cross-country PODS container or a U-Haul headed across town."]),
   ("What We Need From You", [
    "Have the truck or container on-site and ready when we arrive, and make sure there's legal parking for it plus our crew vehicle. If your apartment complex needs a loading dock or elevator reservation, book it before moving day — downtown and West Knoxville buildings are strict about this.",
    "Everything should be packed and ready to carry. If it's not, we also offer packing and unpacking services — or our crews can work around you, though an unpacked house always costs more in hourly time."]),
@@ -212,6 +216,10 @@ PAGES = [
   ("Do you load U-Haul trucks and PODS containers?", "Yes — U-Haul, Penske, Budget, PODS, U-Box, U-Pack trailers, and ABF trailers. If it holds household goods, our crews can load it correctly."),
   ("Can I get same-day loading help?", "Often, yes. Call (865) 936-3891 and we'll tell you straight whether a crew is available today."),
   ("Do you do small one-item moves?", "Yes — single heavy pieces, room-to-room moves inside your home, and storage-unit loads are regular jobs for us. Same hourly rates, two-hour minimum."),
+  ("How many movers do I need to load my truck?", "For a studio or one-bedroom, two movers handle the load comfortably. Two- or three-bedroom homes go faster and safer with three movers, and full houses and heavy furniture warrant a four-mover crew. Tell us the home size and what it's going into when you book — we'll recommend the right crew."),
+  ("How long does it take to load a rental truck?", "A one-bedroom apartment typically loads in 2–3 hours with a two-mover crew; a two-bedroom home usually runs 3–5 hours. Volume, stairs, and how packed-and-ready everything is drive the time — boxes stacked by the door keep the clock short."),
+  ("Do I need to provide my own truck for labor-only moving?", "Yes — that is the whole point of labor-only. You bring the truck, trailer, or portable container; we bring the crew and the equipment. Dollies, furniture pads, straps, and shrink wrap come with us, and our movers load or unload while you handle the driving."),
+  ("Can you unload a PODS container or U-Box at a storage unit?", "Yes — unloading containers at storage units is regular work for us. We unload the container, carry everything into the unit, and stack it tight so you use the space you are paying for. The same applies at houses and apartments: we place boxes and furniture in the rooms you name, not just inside the front door."),
  ],
  "related": [("Local Moving", "/local-moving/"), ("Packing & Unpacking", "/packing-and-unpacking/"), ("Movers in Maryville", "/movers-maryville-tn/"), ("Movers in Oak Ridge", "/movers-oak-ridge-tn/"), ("UT Campus Movers", "/movers-ut-campus-tn/")],
 },
@@ -382,11 +390,11 @@ PAGES = [
 },
 {
  "slug": "movers-oak-ridge-tn",
- "title": "Movers in Oak Ridge, TN | Angry Ducks Moving",
- "meta": "Movers in Oak Ridge, TN — Angry Ducks Moving serves Oak Ridge lab families and professionals with full-service moves and labor-only help. Call (865) 936-3891.",
+ "title": "Furniture Movers in Oak Ridge, TN | Angry Ducks Moving",
+ "meta": "Furniture movers in Oak Ridge, TN — single pieces to full households, plus full-service moves and labor-only help from Angry Ducks Moving. Call (865) 936-3891.",
  "canonical": BASE + "/movers-oak-ridge-tn/",
  "crumb": "Movers in Oak Ridge",
- "h1": "Movers in Oak Ridge, TN",
+ "h1": "Furniture Movers in Oak Ridge, TN",
  "area_served": "Oak Ridge, TN",
  "intro": "Oak Ridge runs on relocations — lab families, contractors, and professionals moving in and out on timelines that don't negotiate. Angry Ducks Moving serves Oak Ridge with full-service moves, labor-only loading help, and packing services built for tight schedules: show up on time, work fast, and get you settled without drama.",
  "sections": [
@@ -399,6 +407,10 @@ PAGES = [
   ("Labor-Only and Container Loads", [
    "Moving yourself with a U-Box, PODS, or rental truck? Our labor-only crews load Oak Ridge homes correctly — weight distributed, everything strapped, fragiles protected — so your DIY move survives the interstate. Two movers at $100/hr, two-hour minimum, pads and dollies included on local work.",
    "We're licensed and insured, open Monday–Saturday 7 AM–8 PM. Call (865) 936-3891 for a straight answer on timing and crew size, or get an instant quote from Sarge on our homepage."]),
+  ("Oak Ridge Neighborhoods, Routes, and Moving-Day Logistics", [
+   "Oak Ridge isn't one kind of move — it's a dozen. Woodland's winding streets and steep driveways, the East Village and West Village townhome rows, the mid-century alphabet streets off the Turnpike, and the newer subdivisions out toward the west end all load differently. Our crews ask which neighborhood you're in before moving day so the truck parks right and the carry is planned, not discovered.",
+   "Getting here is part of the job too. Most Oak Ridge moves come in on Pellissippi Parkway (State Route 162) from Knoxville, State Route 62 from the north, or the Oak Ridge Turnpike through town itself — and moves between Oak Ridge and Kingston or Harriman run State Route 58. We schedule around lab traffic and school hours, and if your building sits near a DOE facility with security checkpoints, tell us at booking: we plan arrival windows around them rather than improvising at the gate.",
+   "The relocation pattern is the other half of Oak Ridge: ORNL and Y-12 bring families in on start dates that don't move, and send them out just as fast. That means weekend moves, tight windows, and houses that need to be livable by Monday morning. It's the work we do most here, and it's why the crews that run Oak Ridge are the ones who keep the pace."]),
   ("Oak Ridge and Anderson County — Our Service Area", [
    "Oak Ridge is where we built our relocation-move reputation, but our crews are on the road across Anderson County regularly: Clinton, Norris, and Rocky Top are all regular stops, and we cross into Roane County for Harriman, Kingston, and Rockwood jobs too. Moving between Oak Ridge and Knoxville? We know that corridor cold.",
    "No matter which town you're in, the deal is the same: licensed and insured crews, hourly rates posted on our homepage ($140/hr for two movers plus the truck, $100/hr labor-only for two movers), and a straight answer about crew size and timing when you call (865) 936-3891."]),
@@ -409,9 +421,14 @@ PAGES = [
   ("Are you insured?", "Yes, Angry Ducks Moving is licensed and insured for residential moves across East Tennessee."),
   ("My Oak Ridge building needs a certificate of insurance. Can you provide one?", "Yes. We're a licensed and insured moving company — tell us at booking that your building or complex requires a COI and we'll arrange one before moving day."),
   ("Do you work around freight elevator reservations?", "Yes. For buildings with freight elevators or loading docks, reserve your window with the property manager — ideally a couple of weeks out — and tell us the slot when you book. We'll arrive ready to work it."),
+  ("Can you move just a few pieces of furniture in Oak Ridge?", "Yes. Single pieces and small furniture loads are a regular job for us in Oak Ridge, from one sofa or bedroom set to a full room. Our crews pad, wrap, and strap each piece, and for store pickups or deliveries across town we run a dedicated furniture delivery service."),
   ("Do I need to check with my HOA before moving in Oak Ridge?", "If you're in a newer subdivision or an HOA neighborhood, yes — check two to three weeks before moving day. Some Oak Ridge-area HOAs restrict where a moving truck can park or require a certificate of insurance from your movers, and townhome or condo buildings may have elevator reservations or freight-dock windows. We handle COIs and scheduled arrival windows routinely — just tell us the rules when you book and we'll work around them."),
+  ("Do you handle relocation moves for Oak Ridge lab and plant workers?", "Yes, relocation moves are a big part of our Oak Ridge work. Start dates at the labs and plants rarely move, so we build the move around your deadline: weekend loading, same-week unpacking, and crews sized to finish in one day when the calendar demands it. Tell us your start date when you call and we'll tell you straight whether the crew you need is open."),
+  ("What is tricky about moving into an older Oak Ridge home?", "Oak Ridge's older homes were not built with moving trucks in mind: low carports, narrow doorways, split-level stairs, and long carries when the truck can't get close to the door. Our crews plan truck placement before we start, pad and wrap everything that has to squeeze through a tight spot, and bring the dollies and ramps that make a long carry manageable. It is slower work than a new subdivision move, but it is work we do every week."),
+  ("How much do movers cost in Oak Ridge, TN?", "Our full-service rates are $140 an hour for two movers and a truck, $195 an hour for three, and $250 an hour for four, plus a one-hour service fee. Labor-only help is $100 an hour for two movers with a two-hour minimum. Jobs are billed in 15-minute increments after the first hour, so you pay for the time we actually work."),
+  ("Do you move between Oak Ridge and Knoxville?", "Yes, moves between Oak Ridge and Knoxville are a regular run for us. One crew loads in Oak Ridge and unloads in Knoxville the same day, or the other way around, at the same hourly rates. Call (865) 936-3891 and we will size the crew to the load."),
  ],
- "related": [("Local Moving", "/local-moving/"), ("Labor-Only Moving", "/labor-only-moving/"), ("Movers in Farragut", "/movers-farragut-tn/"), ("Movers in Bearden", "/movers-bearden-tn/")],
+ "related": [("Local Moving", "/local-moving/"), ("Labor-Only Moving", "/labor-only-moving/"), ("Furniture Delivery", "/furniture-delivery/"), ("Movers in Farragut", "/movers-farragut-tn/"), ("Movers in Bearden", "/movers-bearden-tn/"), ("Movers in Kingston", "/movers-kingston-tn/")],
 },
 {
  "slug": "movers-bearden-tn",

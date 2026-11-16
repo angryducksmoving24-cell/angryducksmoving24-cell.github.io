@@ -669,11 +669,18 @@ PAGES = [
   ("Labor-Only and DIY Support", [
    "Renting a truck or loading a container at your Alcoa home? Our labor-only crews ($100/hr for two movers, two-hour minimum) load it tight and strap it right, so your DIY move survives the interstate. Pads, dollies, and shrink wrap included on local work.",
    "We're licensed and insured, open Monday–Saturday 7 AM–8 PM, closed Sundays. Call (865) 936-3891 for a straight answer on crew size and timing, or get an instant quote from Sarge on our homepage."]),
+  ("Alcoa Neighborhoods, Routes, and Moving-Day Logistics", [
+   "Alcoa isn't one kind of move — it's a handful. Springbrook Park's established ranch homes with full basements, the townhome and apartment communities along the Alcoa Highway corridor, the newer subdivisions filling in toward the foothills, and the airport corridor around McGhee Tyson all load differently. Our crews ask which neighborhood you're in before moving day so the truck parks right and the carry is planned, not discovered.",
+   "Alcoa Highway (US-129) is the spine of nearly every Alcoa move — north to Knoxville, south into Maryville in minutes. Hall Road and Hunt Road tie the neighborhoods together, and Pellissippi Parkway (SR-162) links Alcoa to Oak Ridge and west Knoxville without touching downtown. We schedule around morning airport-corridor traffic and school hours, and if your subdivision or complex has HOA rules about where a moving truck can park, check them a couple of weeks before moving day and tell us when you book — we work around them routinely.",
+   "What an Alcoa move usually costs: most apartments and smaller homes run with two movers plus a truck at $140/hr; full houses are a three-mover job at $195/hr. Labor-only help is $100/hr for two movers with a two-hour minimum. Every job bills in 15-minute increments after the first hour, plus a one-hour service fee, so you pay for the time we actually work."]),
  ],
  "faqs": [
   ("Do you move between Alcoa and Knoxville?", "Constantly — the Alcoa Highway corridor is one of our regular routes, in both directions."),
   ("What's the minimum for labor-only help in Alcoa?", "Two hours. Two movers at $100/hr is the most-booked option for truck and container loading."),
   ("Do you serve Springbrook Park?", "Yes — Springbrook Park, the Alcoa Highway corridor, and all of Blount County."),
+  ("Do you handle apartment moves in Alcoa?", "Yes — the apartment and townhome communities along the Alcoa Highway corridor are regular stops. Stairs, tight turns, and elevator timing are part of the job, and two movers plus a truck ($140/hr) covers most one- and two-bedroom apartments."),
+  ("Can you load a storage unit in Alcoa?", "Yes — we load and unload storage units across Blount County, packing them tight so you use the space you rented, and we come back to unload when your new place is ready."),
+  ("How much do movers cost in Alcoa, TN?", "Our full-service rates are $140 an hour for two movers and a truck, $195 an hour for three, and $250 an hour for four, plus a one-hour service fee. Labor-only help is $100 an hour for two movers with a two-hour minimum. Jobs are billed in 15-minute increments after the first hour, so you pay for the time we actually work."),
  ],
  "related": [("Movers in Maryville", "/movers-maryville-tn/"), ("Local Moving", "/local-moving/"), ("Labor-Only Moving", "/labor-only-moving/"), ("Packing & Unpacking", "/packing-and-unpacking/")],
 },

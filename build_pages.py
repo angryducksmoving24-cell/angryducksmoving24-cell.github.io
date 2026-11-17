@@ -340,8 +340,8 @@ PAGES = [
 },
 {
  "slug": "movers-seymour-tn",
- "title": "Movers in Seymour, TN | Angry Ducks Moving",
- "meta": "Movers in Seymour, TN — full-service moves, labor-only help & packing from Angry Ducks Moving, serving Seymour, South Knoxville & Sevier County. Call (865) 936-3891.",
+ "title": "Furniture Movers in Seymour, TN | Angry Ducks Moving",
+ "meta": "Furniture movers in Seymour, TN — single pieces to full households, plus full-service moves, labor-only help & packing from Angry Ducks Moving, serving Seymour, South Knoxville & Sevier County. Call (865) 936-3891.",
  "canonical": BASE + "/movers-seymour-tn/",
  "crumb": "Movers in Seymour",
  "h1": "Movers in Seymour, TN",
@@ -354,6 +354,9 @@ PAGES = [
   ("Knoxville-to-Seymour and the Chapman Highway Corridor", [
    "A steady share of our work is families moving between Knoxville and Seymour — trading city lots for county space, or moving closer to town for a shorter commute. We run the Chapman Highway corridor constantly, so a Knoxville-to-Seymour move is routine: loaded in the morning, unloaded by afternoon, beds reassembled before dinner.",
    "Seymour also sees a lot of moves toward Sevierville, Pigeon Forge, and the lake country. If you're relocating into or out of the area, our unpacking service — kitchen and bedrooms set up, boxes broken down and hauled away — turns a chaotic arrival into a settled home in a single day. Pair it with furniture assembly and the place is genuinely livable when we leave."]),
+  ("Seymour Neighborhoods, Routes, and Moving-Day Logistics", [
+   "Seymour's map is the Chapman Highway spine — U.S. 441 running from South Knoxville down through town toward Sevierville and Pigeon Forge — with Boyds Creek Highway and Sevierville Road branching off into the neighborhoods where most of our jobs are: Seymour Heights and Cherokee Hills, the newer subdivisions spreading off Boyds Creek, and the hillside homes up toward the Smokies. Older properties tend to sit on acreage with long gravel drives; new builds sit on tighter streets with HOA rules about where a truck can park and for how long.",
+   "That mix is why we ask about your street when you book. On a county road with no shoulder, we stage the truck where it won't block traffic and plan the carry from the door. In a new subdivision, we confirm the truck-parking rules up front so the job doesn't start with a neighbor dispute. Moves between Seymour and Knoxville run Chapman Highway; moves toward Sevierville or Pigeon Forge stay on 441, and the same corridor carries our crews toward the lake country. Tell us the driveway, the grade, and the gate code, and moving day runs on schedule."]),
   ("Labor-Only Help and Straightforward Pricing", [
    "Seymour is a do-it-yourself kind of community, and labor-only help is one of our most-booked job types here. Rent the truck or container — U-Haul, Penske, PODS, U-Box — and we'll load it the way professionals do: heavy furniture as the base layer, boxes stacked by weight, everything strapped and padded so the drive survives the trip across town or across the state.",
    "Standard Angry Ducks rates apply: 2 movers + truck $140/hr, 3 movers $195/hr, 4 movers $250/hr plus a one-hour service fee; labor-only crews from $100/hr with a two-hour minimum. Licensed and insured, open Monday–Saturday 7 AM–8 PM, closed Sundays. Call (865) 936-3891 for a straight answer on crew size and timing, or get an instant quote from Sarge on our homepage."]),
@@ -363,8 +366,10 @@ PAGES = [
   ("Can you load my rental truck or PODS container in Seymour?", "Yes — U-Haul, Penske, Budget trucks, PODS, and U-Box containers are regular jobs for us. We load them correctly so nothing shifts in transit."),
   ("How much does a move in Seymour cost?", "Full-service moves run $140/hr for two movers plus the truck, with a one-hour service fee. Labor-only help is $100/hr for two movers with a two-hour minimum. Call for a straight answer based on your home size and distance."),
   ("Do you handle homes with long driveways or acreage?", "Yes — long carries, gravel drives, and hillside properties are common in Seymour, and we plan the staging and carry before the first box moves."),
+  ("Do you move heavy furniture in Seymour — pianos, gun safes, big dressers?", "Yes — heavy furniture is our everyday work in Seymour: pianos, gun safes, solid-wood dressers and armoires, sectionals and appliances. We bring the equipment (dollies, straps, pads), disassemble and reassemble when a piece needs it, and plan the carry for long driveways, gravel, and hillside homes before the first box moves. Full-service runs $140/hr for two movers plus the truck, with a one-hour service fee."),
+  ("Can you move a single piece of furniture in Seymour?", "Yes — single-piece furniture moves are regular work for us in Seymour: a sofa delivered from a Knoxville furniture store and placed in the living room, a piano moved across the house, a gun safe brought in from the garage. We pad and wrap the piece, plan the carry for stairs, gravel, or tight turns, and set it exactly where you want it. A two-mover crew with our truck runs $140/hr plus the one-hour service fee; if you already have a truck, labor-only help starts at $100/hr with a two-hour minimum."),
  ],
- "related": [("Local Moving", "/local-moving/"), ("Labor-Only Moving", "/labor-only-moving/"), ("Movers in Maryville", "/movers-maryville-tn/"), ("Movers in Lenoir City", "/movers-lenoir-city-tn/")],
+ "related": [("Local Moving", "/local-moving/"), ("Piano &amp; Heavy-Item Moving", "/piano-heavy-item-moving/"), ("Labor-Only Moving", "/labor-only-moving/"), ("Movers in Maryville", "/movers-maryville-tn/"), ("Movers in Lenoir City", "/movers-lenoir-city-tn/"), ("Movers in Sevierville", "/movers-sevierville-tn/")],
 },
 {
  "slug": "movers-sevierville-tn",

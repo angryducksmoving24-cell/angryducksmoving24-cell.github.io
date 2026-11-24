@@ -287,7 +287,7 @@ PAGES = [
  "meta": "Furniture movers in Farragut, TN — Angry Ducks Moving handles furniture delivery and setup, full-service moves, labor-only help, and packing across Farragut and Turkey Creek. Licensed & insured. Call (865) 936-3891.",
  "canonical": BASE + "/movers-farragut-tn/",
  "crumb": "Movers in Farragut",
- "h1": "Movers in Farragut, TN",
+ "h1": "Furniture Movers in Farragut, TN",
  "area_served": "Farragut, TN",
  "intro": "Farragut moves have their own character: larger homes, long driveways, HOA rules about truck parking, and a lot of families upsizing within the same school zones. Angry Ducks Moving handles Farragut relocations weekly — full-service moves with our trucks and crews, labor-only loading help, packing, and furniture assembly — from neighborhoods off Kingston Pike to the Turkey Creek corridor.",
  "sections": [
@@ -300,6 +300,8 @@ PAGES = [
   ("Services Available in Farragut", [
    "Everything we offer in Knoxville is available in Farragut: full-service residential moving, labor-only loading and unloading, packing and unpacking, furniture assembly and disassembly, heavy-item moves (safes, pianos, pool tables), in-home furniture rearranging, and same-day moving help when crews are open.",
    "Rates are the same as Knoxville: 2 movers + truck $140/hr, 3 movers $195/hr, 4 movers $250/hr plus a one-hour service fee; labor-only from $100/hr with a two-hour minimum. Call (865) 936-3891 — a human answers, and we'll give you a straight recommendation, not a phone tree."]),
+  ("Farragut at a Glance", [
+   "Farragut keeps growing — up from 23,506 people in the 2020 Census to an estimated 25,121 in July 2025 — and most of that growth is families buying homes: 84.7% of homes here are owner-occupied, the median home value is $583,400, and the median household income is about $142,093. The moves we see most are families upsizing or downsizing within the Farragut school zones, plus new-home closings along the Concord corridor and furniture deliveries from the Turkey Creek stores. Peak season here is May through August, when weekends book up two to three weeks out. Figures: U.S. Census Bureau QuickFacts, Farragut town, Tennessee."]),
   ("Farragut Neighborhoods, Routes, and Moving-Day Logistics", [
    "Farragut isn't one kind of move — it's several. The established subdivisions off Kingston Pike and Campbell Station Road bring long driveways, cul-de-sacs, and HOA rules about where a box truck can park; Fox Den and the neighborhoods around the golf course mean gated entries and wide lots with long carries; the townhomes and condos near Turkey Creek bring stairs, elevators, and shared parking; and the newer builds out toward Concord and the west end bring fresh driveways that can't take a heavy truck yet. Our crews ask which neighborhood you're in before moving day so the truck parks right and the carry is planned, not discovered.",
    "Getting here is part of the job. Kingston Pike (U.S. 70) is the spine through Farragut, with Campbell Station Road and Lovell Road carrying crews north and south; I-40/I-75 handles the Knoxville runs, and Pellissippi Parkway (I-140) connects to Hardin Valley and Oak Ridge. We schedule around Turkey Creek shopping traffic on weekends and the school rush around Farragut High, Middle, and Intermediate — and if your subdivision has a gate code or a truck-parking rule, tell us at booking so the crew isn't sorting it out at the gate.",
@@ -313,6 +315,7 @@ PAGES = [
   ("What do Farragut HOAs require for moving trucks?", "It varies by subdivision \u2014 some restrict street parking for box trucks or require advance notice to the HOA. Tell us your subdivision and any rules you know when you book, and we will plan staging, arrival time, and truck placement around them so the move does not stall on move day."),
   ("Do you deliver and set up furniture bought in Turkey Creek?", "Yes. We pick up furniture from Turkey Creek stores, deliver it to your Farragut home, place it in the room, assemble it, and take the packaging with us. It is the same white-glove handling we use on full moves, for a single piece or a whole room."),
   ("Can you move a single piece of furniture in Farragut?", "Yes. Single pieces are a regular Farragut job — one sofa, a bedroom set, a dining table from a Turkey Creek store. Two movers plus the truck ($140/hr) covers most single-piece moves, with padding, wrapping, and placement in the room. Tell us the piece and the stairs when you call and we will confirm the crew."),
+  ("When should I book a move in Farragut, TN?", "Book as early as you can for May through August, when moving weekends in Farragut fill up two to three weeks out — especially around school-year transitions, when families time moves to stay in the Farragut school zones. Outside peak season, a few days' notice is usually enough, and same-day labor-only help is often available. Fridays and Saturdays go first year-round, so a weekday move is the easiest way to get your first-choice date. Turkey Creek furniture deliveries can usually be scheduled within a day or two."),
  ],
  "related": [("Local Moving", "/local-moving/"), ("Labor-Only Moving", "/labor-only-moving/"), ("Movers in Bearden", "/movers-bearden-tn/"), ("Movers in Oak Ridge", "/movers-oak-ridge-tn/")],
 },
@@ -570,13 +573,13 @@ PAGES = [
 },
 {
  "slug": "furniture-delivery",
- "title": "Furniture Delivery in Knoxville, TN | Angry Ducks Moving",
- "meta": "Furniture delivery in Knoxville, TN — single items & full rooms delivered, carried in, assembled & placed by Angry Ducks Moving. Call (865) 936-3891.",
+ "title": "Furniture Movers in Knoxville, TN | Furniture Delivery | Angry Ducks Moving",
+ "meta": "Furniture movers in Knoxville, TN — single items & full rooms moved, delivered, carried in, assembled & placed by Angry Ducks Moving. Call (865) 936-3891.",
  "canonical": BASE + "/furniture-delivery/",
- "crumb": "Furniture Delivery",
- "h1": "Furniture Delivery in Knoxville, TN",
+ "crumb": "Furniture Movers",
+ "h1": "Furniture Movers in Knoxville, TN",
  "area_served": "Knoxville, TN",
- "intro": "Bought a couch, a bedroom set, or a whole living room and now need it actually in your house? Angry Ducks Moving does furniture delivery across Knoxville — store pickup, careful transport, carry-in, room placement, assembly, and packaging removal. One call, and the furniture is usable the day it arrives.",
+ "intro": "Bought a couch, a bedroom set, or a whole living room and now need it actually in your house? Angry Ducks Moving is a furniture mover in Knoxville — store pickup, careful transport, carry-in, room placement, assembly, and packaging removal. One call, and the furniture is usable the day it arrives.",
  "sections": [
   ("From Store to Set Up in One Visit", [
    "The big-box delivery left it in your driveway. The online order arrived in seventeen boxes. We fix both: pickup from Turkey Creek stores, Knoxville furniture retailers, or your doorstep, then carry-in, assembly, and placement exactly where you want it. Beds built, dressers leveled, sectionals configured, TV on the stand.",
@@ -584,6 +587,15 @@ PAGES = [
   ("Single Items to Full Rooms", [
    "One heavy dresser up the stairs. A full bedroom set from the showroom. A living room's worth of flat-pack that would eat your entire Saturday. All of it is fair game — small jobs are quick visits, full rooms take a few hours, and the price always matches the actual work.",
    "Designers and stagers: we do white-glove delivery and setup for client homes, including Parade of Homes–style installs — furniture placed per plan, packaging gone, rooms photo-ready. If you're furnishing a model or a showcase home on a deadline, call early."]),
+  ("Furniture Movers for Stairs, Elevators & Tight Spaces", [
+   "Stairs, elevators, and tight hallways are everyday work for our furniture movers. We recently carried a sleeper sofa and a couch up the elevator to a 5th-floor downtown apartment and placed them without a scratch — pads and doorway protection go on first, every time.",
+   "Downtown lofts, third-floor walk-ups, narrow Bearden hallways: tell us about the stairs and turns when you call and we'll bring the right crew and gear. Heavy pieces get dollies, straps, and a second pair of hands where the corners get tight."]),
+  ("Home Gyms, Game Rooms & Heavy Specialty Deliveries", [
+   "Functional trainers, treadmills, dumbbell racks, pinball machines — the heavy, delicate, awkward pieces a store's curbside crew won't touch. Our crews unloaded, unpacked, and placed a full weight room plus two pinball machines in a Farragut home, room by room: equipment carried in, machines set and leveled, packaging and debris hauled out. If it plugs in, bolts together, or has to survive a staircase, bring it to us.",
+   "One call covers the whole job — transport, placement, and basic setup — with a crew that knows how the pieces go together. Get an honest quote up front; most specialty deliveries are done the same week you call."]),
+  ("What Furniture Moving Costs in Knoxville", [
+   "Most single-piece moves run with 2 movers plus a truck at $140/hr plus the one-hour service fee — a sofa, a dresser, a dining set. A full room or a heavy piece like a safe or a piano may need a third mover at $195/hr. The price always matches the actual work, and you get the crew size and hourly rate up front.",
+   "If you already have a truck or container, labor-only help starts at $100/hr with a two-hour minimum — same crew, same care, you handle the driving. Either way, call (865) 936-3891 and tell us the piece and the stairs; we'll quote it straight."]),
   ("How to Book", [
    "Tell us what you bought (photos or links help), where it's coming from, and where it's going — including stairs and tight turns. We'll quote the job honestly and schedule the pickup and delivery in one coordinated run.",
    "We're open Monday–Saturday 7 AM–8 PM. Call (865) 936-3891 — a human answers, and same-week delivery is the norm, not the exception."]),
@@ -592,6 +604,10 @@ PAGES = [
   ("Do you pick up from furniture stores?", "Yes — we pick up from Knoxville-area retailers including the Turkey Creek corridor, transport, carry in, assemble, and place your furniture."),
   ("Will you assemble what you deliver?", "That's the point. Beds, dressers, sectionals, desks — built, leveled, and placed, with packaging hauled away."),
   ("Do you deliver for interior designers?", "Yes — white-glove delivery and setup for designer clients, staged homes, and model homes, on deadline."),
+  ("Do you deliver home gym equipment and arcade or pinball machines?", "Yes — treadmills, functional trainers, weight racks, and game-room pieces like pinball machines, delivered room by room, set up and leveled, with all packaging removed."),
+  ("How much does it cost to move one piece of furniture in Knoxville?", "Most single-piece moves run with 2 movers plus a truck at $140/hr plus the one-hour service fee — a sofa, a dresser, a dining set. Bigger rooms or heavy pieces may need a third mover at $195/hr. Tell us the piece and the stairs when you call and we'll quote it straight."),
+  ("Can you move furniture up stairs or in an elevator?", "Yes — stairs, elevators, and tight hallways are everyday work. We recently carried a sleeper sofa and a couch up the elevator to a 5th-floor downtown apartment and placed them without a scratch. Pads and doorway protection go on first, every time."),
+  ("Do you move furniture inside my home, not just deliver it?", "Yes — room-to-room moves, rearranging for a remodel, and staging a home for sale are regular jobs. We pad doorways, protect floors, and place heavy pieces exactly where you want them."),
  ],
  "related": [("Furniture Assembly", "/furniture-assembly/"), ("Local Moving", "/local-moving/"), ("Movers in Farragut", "/movers-farragut-tn/"), ("Movers in Bearden", "/movers-bearden-tn/")],
 },

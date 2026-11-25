@@ -663,6 +663,8 @@ PAGES = [
   ("Knoxville-to-Lenoir City Relocations", [
    "A steady stream of our work is Knoxville families moving west for space and lake access. We run the I-40/I-75 corridor constantly, so a Knoxville-to-Lenoir City move is routine for us — loaded in the morning, unloaded by afternoon, beds reassembled before dinner.",
    "Coming from out of state into a Tellico Village villa or a Lenoir City new build? Our unpacking service — kitchen and bedrooms set up, boxes broken down and hauled away — turns a chaotic arrival into a settled home in a single day."]),
+  ("Lenoir City at a Glance", [
+   "Lenoir City is growing fast — up from 10,117 people in the 2020 Census to an estimated 12,530 in July 2025, a 24.2% jump — and the growth is a mix of new builds along the Highway 321 corridor and retirees settling into Tellico Village: 63.7% of homes here are owner-occupied, the median home value is $252,400, and the median household income is about $67,259. The moves we see most are Knoxville families heading west for space and lake access, downsizing retirees moving into Village villas and condos, and new-home closings where the keys change hands and the truck needs to be there the same day. Peak season here is May through August, when weekends book up two to three weeks out. Figures: U.S. Census Bureau QuickFacts, Lenoir City city, Tennessee."]),
   ("Pricing and Booking", [
    "Standard Angry Ducks rates: 2 movers + truck $140/hr, 3 movers $195/hr, 4 movers $250/hr plus a one-hour service fee; labor-only crews from $100/hr with a two-hour minimum. Licensed and insured.",
    "Open Monday–Saturday 7 AM–8 PM, closed Sundays. Call (865) 936-3891 for a straight answer on crew size and timing, or get an instant quote from Sarge on our homepage."]),
@@ -671,6 +673,8 @@ PAGES = [
   ("Do you serve Tellico Village?", "Yes — Tellico Village, Lenoir City, and the surrounding Loudon County communities are regular service areas, including village condos with HOA requirements."),
   ("We're moving from Knoxville to Lenoir City — is that a full day?", "Usually a single day: load in the morning, drive the corridor, unload in the afternoon. We'll confirm timing when you call."),
   ("Do you offer packing services in Lenoir City?", "Yes — full-home packing, partial packing, and unpacking with debris removal."),
+  ("Can you load or unload a storage unit in Lenoir City?", "Yes — our labor-only crews regularly load and unload storage units, PODS, and U-Box containers around Lenoir City, with a two-hour minimum. You rent the unit or container, we bring the muscle, pads, and dollies."),
+  ("When should I book a move in Lenoir City, TN?", "Book as early as you can for May through August, when moving weekends in Lenoir City fill up two to three weeks out — especially around Tellico Village closings and school-year transitions, when families time moves to stay in the same school zones. Outside peak season, a few days' notice is usually enough, and same-day labor-only help is often available. Fridays and Saturdays go first year-round, so a weekday move is the easiest way to get your first-choice date. Storage-unit unloads around Lenoir City can usually be scheduled within a day or two."),
  ],
  "related": [("Local Moving", "/local-moving/"), ("Packing & Unpacking", "/packing-and-unpacking/"), ("Movers in Farragut", "/movers-farragut-tn/"), ("Movers in Maryville", "/movers-maryville-tn/"), ("Movers in Loudon", "/movers-loudon-tn/"), ("Movers in Tellico Village", "/movers-tellico-village-tn/")],
 },

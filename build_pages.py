@@ -821,12 +821,15 @@ PAGES = [
   ("Full-Service Moves With Honest Pricing", [
    "Want the whole thing handled? Full-service means our crew, our truck, our pads and equipment: two movers plus the truck at $140/hr, three at $195/hr, four at $250/hr, plus a one-hour service fee that covers the truck, fuel, and gear. No vague quotes — call (865) 936-3891 and we'll give you a straight answer based on your home size and distance.",
    "We're licensed and insured, and we work Monday through Saturday, 7 AM to 8 PM. Furniture assembly, partial and full packing, and heavy items like pianos and safes are all in our wheelhouse — describe what you've got and we'll tell you honestly what crew it takes."]),
+  ("Clinton at a Glance", [
+   "Clinton is the Anderson County seat — a steady small city of 10,056 people in the 2020 Census, up to an estimated 10,466 in July 2025, a 4.3% gain — and the moves we see most are a mix of ORNL and Y-12 relocations, Knoxville families heading north for space and lake access, and longtime residents moving between downtown's older homes and the newer subdivisions and lake-area communities around Melton Hill Lake: 63.0% of homes here are owner-occupied, the median home value is $225,000, and the median household income is about $68,882. Peak season here is May through August, when weekends book up two to three weeks out. Figures: U.S. Census Bureau QuickFacts, Clinton city, Tennessee."]),
  ],
  "faqs": [
   ("How much does a move in Clinton cost?", "Full-service moves run $140/hr for two movers plus the truck, with a one-hour service fee. Labor-only help is $100/hr for two movers with a two-hour minimum. Call for a straight answer based on your home size and distance."),
   ("Do you load rental trucks and containers in Clinton?", "Yes — U-Haul, Penske, PODS, and U-Box loads are regular jobs for us. We load them correctly so nothing shifts in transit."),
   ("Do you serve areas around Clinton?", "Absolutely — Norris, Andersonville, Oak Ridge, Powell, Karns, and all of Anderson County, plus greater Knoxville."),
   ("Are you licensed and insured?", "Yes. Angry Ducks Moving is a licensed and insured moving company serving Clinton and East Tennessee."),
+  ("When should I book a move in Clinton, TN?", "Book as early as you can for May through August, when moving weekends in Clinton fill up two to three weeks out — especially around ORNL and Y-12 hiring cycles and school-year transitions, when families time moves to stay in the same school zones. Outside peak season, a few days' notice is usually enough, and same-day labor-only help is often available. Fridays and Saturdays go first year-round, so a weekday move is the easiest way to get your first-choice date. Storage-unit unloads around Clinton can usually be scheduled within a day or two."),
  ],
  "related": [("Movers in Karns", "/movers-karns-tn/"), ("Movers in Oak Ridge", "/movers-oak-ridge-tn/"), ("Movers in Powell", "/movers-powell-tn/"), ("Labor-Only Moving", "/labor-only-moving/")],
 },

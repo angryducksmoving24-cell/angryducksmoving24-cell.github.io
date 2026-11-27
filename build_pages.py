@@ -636,6 +636,8 @@ PAGES = [
   ("Straightforward Pricing", [
    "Same rates as everywhere we serve: 2 movers + truck $140/hr, 3 movers $195/hr, 4 movers $250/hr plus a one-hour service fee; labor-only from $100/hr with a two-hour minimum. Licensed and insured, open Monday–Saturday 7 AM–8 PM.",
    "Call (865) 936-3891 for a fast, honest quote — or chat with Sarge on our homepage. Either way you get a crew recommendation and an exact hourly rate, no phone tree and no games."]),
+  ("Powell at a Glance", [
+   "Powell is a census-designated place in North Knox County — 13,802 people in the 2020 Census, in 4,999 households — and the moves we see most are young families upsizing into the new subdivisions off Emory Road and Beaver Creek Drive, longtime residents settling into their forever homes, and Knoxville commuters trading city lots for county space: 78.9% of homes here are owner-occupied, the median home value is $299,400, the median household income is $82,434, and the median gross rent is $1,276. Peak season here is May through August, when weekends book up two to three weeks out. Figures: U.S. Census Bureau QuickFacts, Powell CDP, Tennessee."]),
  ],
  "faqs": [
   ("Do you serve Halls and Heiskell?", "Yes — Powell, Halls, Heiskell, and all of North Knox County are regular service areas."),
@@ -644,6 +646,7 @@ PAGES = [
   ("Can you help me unload a PODS or U-Box in Powell?", "Yes — our labor-only crew unloads containers and places your furniture where you want it, from $100/hr with a two-hour minimum. Call ahead so we can meet your delivery window."),
   ("What about a steep driveway or long gravel drive?", "Common out past Halls Crossroads. When the truck can't reach the door, we stage at the drive's end and hand-carry with padded dollies — it adds time, not drama. We'll plan it around your address before move day."),
   ("Can you move a single piece of furniture in Powell?", "Yes — a single heavy piece (sectional, gun safe, piano) runs with 2 movers + truck at $140/hr, pads and dollies included. Tell us the piece and the stairs and we'll quote it straight."),
+  ("When should I book a move in Powell, TN?", "Book as early as you can for May through August, when moving weekends in Powell fill up two to three weeks out — especially around school-year transitions, when families time moves to stay in the Powell school zones, and the summer subdivision closings. Outside peak season, a few days' notice is usually enough, and same-day labor-only help is often available. Fridays and Saturdays go first year-round, so a weekday move is the easiest way to get your first-choice date. Storage-unit unloads around Powell can usually be scheduled within a day or two."),
  ],
  "related": [("Local Moving", "/local-moving/"), ("Labor-Only Moving", "/labor-only-moving/"), ("Movers in Oak Ridge", "/movers-oak-ridge-tn/"), ("Movers in Maryville", "/movers-maryville-tn/")],
 },

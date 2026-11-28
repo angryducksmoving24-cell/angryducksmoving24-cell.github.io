@@ -796,12 +796,16 @@ PAGES = [
   ("Packing, Heavy Items, and Furniture Assembly", [
    "Between the packing, the heavy pieces, and the reassembly, moving day has three jobs nobody wants. We take all three: full and partial packing with proper materials, heavy-item crews for pianos, gun safes, and oversized furniture, and furniture assembly so beds, tables, and sectionals are usable the night you arrive — not leaning against a wall for a week.",
    "Farm outbuildings and workshops are common on Karns acreage — we move those too, including workbenches, tool chests, and riding-mower sheds' worth of gear. If it needs to get from the old place to the new one in one piece, it's our kind of job. Call (865) 936-3891 and describe what you've got; we'll tell you straight what crew it takes."]),
+  ("Karns at a Glance", [
+   "Karns is a census-designated place in northwest Knox County — 3,536 people in the 2020 Census, in 1,310 households — and the moves we see most are young families upsizing into the subdivisions off Oak Ridge Highway, longtime residents settling into acreage properties, and Knoxville commuters trading city lots for county space: 77.4% of homes here are owner-occupied, the median home value is $328,600, the median household income is $100,043, and the median gross rent is $1,765. Peak season here is May through August, when weekends book up two to three weeks out. Figures: U.S. Census Bureau, American Community Survey 2020–2024 5-year estimates, Karns CDP, Tennessee."]),
  ],
  "faqs": [
   ("How much does a move in Karns cost?", "Full-service moves run $140/hr for two movers plus the truck, with a one-hour service fee. Labor-only help is $100/hr for two movers with a two-hour minimum. Call for a straight answer based on your home size and distance."),
   ("Do you load rental trucks and containers in Karns?", "Yes — U-Haul, Penske, Budget trucks, PODS, and U-Box containers are regular jobs for us. We load them correctly so nothing shifts in transit."),
   ("Can you move a piano or safe at a Karns property?", "Yes. Our heavy-item crews handle pianos, gun safes, and oversized furniture with the right equipment and enough hands — including properties where the truck can't pull up close."),
   ("Do you serve areas around Karns?", "Absolutely — Powell, Halls, Hardin Valley, Oak Ridge, and all of northwest Knox County, plus greater Knoxville."),
+  ("What happens if the truck can't get down my Karns driveway?", "Tell us about the driveway when you book and we plan the carry before moving day: gear staged near the house, dollies for the long walk, and floors and doorways protected. A long or steep driveway changes the plan, not the quality of the job."),
+  ("How far ahead should I book a move in Karns?", "A week or two ahead gives you the best shot at your first-choice day, and we work Monday through Saturday, 7 AM to 8 PM. Call or text (865) 936-3891 and we will tell you straight what is open."),
  ],
  "related": [("Movers in Powell", "/movers-powell-tn/"), ("Movers in Hardin Valley", "/movers-hardin-valley-tn/"), ("Movers in Clinton", "/movers-clinton-tn/"), ("Labor-Only Moving", "/labor-only-moving/"), ("Local Moving", "/local-moving/")],
 },
